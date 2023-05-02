@@ -8,3 +8,4 @@ rank-up
 2. Pangram
 3. Split the string into pairs of two characters
 4. Replace every letter in the string with its position in the alphabet
+5. Translate Morse code to string
