@@ -11,4 +11,6 @@ rank-up
 4. Replace every letter in the string with its position in the alphabet
 5. Translate Morse code to string
 
-Commit example: update(added app5.js(Translate Morse code to string)
+Commit example: 
+
+git commit -m "update(added app5.js(Translate Morse code to string))"
