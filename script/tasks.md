@@ -1,6 +1,7 @@
 fundamental
 1. Make negative (-Math.abs)
 2. Check even/odd (%2)
+3. Reversed array from number
 
 //===============================//
 
@@ -13,4 +14,4 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(added app5.js(Translate Morse code to string))"
+git commit -m "update(added app5.js):added more info"
