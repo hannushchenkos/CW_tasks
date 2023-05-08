@@ -9,6 +9,10 @@ function digitize(n) {
   return array.length===0 ? array = [n]: array;
 }
 
+// function digitize(n) {
+//   return String(n).split('').map(Number).reverse()
+// }
+
 //======//
 
 let res = digitize(-5)
