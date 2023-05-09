@@ -2,6 +2,7 @@ fundamental
 1. Make negative (-Math.abs)
 2. Check even/odd (%2)
 3. Reversed array from number
+4. Find the smallest integer
 
 //===============================//
 
