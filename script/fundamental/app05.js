@@ -16,9 +16,7 @@
 //   return res;
 // }
 
-function rowSumOddNumbers(n) {
-return Math.pow(n, 3);
-} 
+let rowSumOddNumbers = (n) => Math.pow(n, 3);
 
 
 //======//
