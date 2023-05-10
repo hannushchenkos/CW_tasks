@@ -3,6 +3,7 @@ fundamental
 2. Check even/odd (%2)
 3. Reversed array from number
 4. Find the smallest integer
+5. Triangle row sum
 
 //===============================//
 
