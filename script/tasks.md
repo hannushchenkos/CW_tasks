@@ -4,6 +4,7 @@ fundamental
 3. Reversed array from number
 4. Find the smallest integer
 5. Triangle row sum
+5. Sum in binary
 
 //===============================//
 
