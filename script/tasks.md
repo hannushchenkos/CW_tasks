@@ -6,6 +6,7 @@ fundamental
 5. Triangle row sum
 6. Sum in binary
 7. Binary array to decimal number
+8. Convert a name into initials 
 
 //===============================//
 
@@ -18,4 +19,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(added app5.js):added more info"
+git commit -m "update(fundamentals:added app7.js):added more info"
+git commit -m "update(rank-up:added app5.js):added more info"
