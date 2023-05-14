@@ -7,6 +7,7 @@ fundamental
 6. Sum in binary
 7. Binary array to decimal number
 8. Convert a name into initials 
+8. Multiplying the values of array together 
 
 //===============================//
 
@@ -19,5 +20,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app7.js):added more info"
+git commit -m "update(fundamentals:added app9.js):Multiplying the values of array together"
 git commit -m "update(rank-up:added app5.js):added more info"
