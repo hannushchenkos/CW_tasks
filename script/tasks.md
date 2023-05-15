@@ -9,6 +9,7 @@ fundamental
 8. Convert a name into initials 
 9. Multiplying the values of array together
 10. Filter number array from extra types 
+11. Sum of all the integers between two numbers
 
 
 //===============================//
@@ -22,5 +23,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app10.js):Filter number array from extra types"
+git commit -m "update(fundamentals:added app11.js):Sum of all the integers between two numbers"
 git commit -m "update(rank-up:added app5.js):added more info"
