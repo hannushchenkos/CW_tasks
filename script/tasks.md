@@ -22,8 +22,9 @@ rank-up
 3. Split the string into pairs of two characters
 4. Replace every letter in the string with its position in the alphabet
 5. Translate Morse code to string
+6. Break up camel casing
 
 Commit example: 
 
 git commit -m "update(fundamentals:added app13.js):Translates a given DNA string into RNA"
-git commit -m "update(rank-up:added app5.js):added more info"
+git commit -m "update(rank-up:added app6.js):Break up camel casing"
