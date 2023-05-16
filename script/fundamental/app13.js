@@ -8,6 +8,18 @@ function DNAtoRNA(dna) {
   return dna.split("").map((letter) => letter === "T" ? letter = 'U' : letter).join("")
 }
 
+// function DNAtoRNA(dna){
+//   return dna.replace(/T/g, 'U');
+// }
+
+// function DNAtoRNA(dna) {
+//   return dna.split("T").join("U");
+// }
+
+// function DNAtoRNA(dna) {
+//   return dna.replaceAll('T','U');
+// }
+
 /*===================*/
 let res = DNAtoRNA('GCAT')
 console.log(res)
