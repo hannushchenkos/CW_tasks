@@ -11,6 +11,7 @@ fundamental
 10. Filter number array from extra types 
 11. Sum of all the integers between two numbers
 12. Calculate body mass index
+13. Translates a given DNA string into RNA
 
 
 //===============================//
@@ -24,5 +25,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app12.js):Calculate body mass index"
+git commit -m "update(fundamentals:added app13.js):Translates a given DNA string into RNA"
 git commit -m "update(rank-up:added app5.js):added more info"
