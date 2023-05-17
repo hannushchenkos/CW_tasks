@@ -23,8 +23,9 @@ rank-up
 4. Replace every letter in the string with its position in the alphabet
 5. Translate Morse code to string
 6. Break up camel casing
+7. Instagram likes functionality
 
 Commit example: 
 
 git commit -m "update(fundamentals:added app13.js):Translates a given DNA string into RNA"
-git commit -m "update(rank-up:added app6.js):Break up camel casing"
+git commit -m "update(rank-up:added app7.js):Instagram likes functionality"
