@@ -12,6 +12,7 @@ fundamental
 11. Sum of all the integers between two numbers
 12. Calculate body mass index
 13. Translates a given DNA string into RNA
+14. Sum of all of the positives
 
 
 //===============================//
@@ -28,5 +29,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app13.js):Translates a given DNA string into RNA"
+git commit -m "update(fundamentals:added app14.js):Sum of all of the positives"
 git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
