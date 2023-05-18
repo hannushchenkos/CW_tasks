@@ -24,8 +24,9 @@ rank-up
 5. Translate Morse code to string
 6. Break up camel casing
 7. Instagram likes functionality
+8. Find missed letter in alphabet order
 
 Commit example: 
 
 git commit -m "update(fundamentals:added app13.js):Translates a given DNA string into RNA"
-git commit -m "update(rank-up:added app7.js):Instagram likes functionality"
+git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
