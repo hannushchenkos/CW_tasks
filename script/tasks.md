@@ -13,6 +13,7 @@ fundamental
 12. Calculate body mass index
 13. Translates a given DNA string into RNA
 14. Sum of all of the positives
+15. Function that does four basic mathematical operations
 
 
 //===============================//
@@ -29,5 +30,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app14.js):Sum of all of the positives"
+git commit -m "update(fundamentals:added app15.js):Function that does four basic mathematical operations"
 git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
