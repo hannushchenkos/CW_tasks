@@ -14,6 +14,7 @@ fundamental
 13. Translates a given DNA string into RNA
 14. Sum of all of the positives
 15. Function that does four basic mathematical operations
+16. Check the sum of array elements is odd or even
 
 
 //===============================//
@@ -30,5 +31,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app15.js):Function that does four basic mathematical operations"
+git commit -m "update(fundamentals:added app16.js):Check the sum of array elements is odd or even"
 git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
