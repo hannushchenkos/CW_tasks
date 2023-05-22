@@ -30,8 +30,9 @@ rank-up
 6. Break up camel casing
 7. Instagram likes functionality
 8. Find missed letter in alphabet order
+9. Caesar cipher
 
 Commit example: 
 
 git commit -m "update(fundamentals:added app18.js):String ends with other substring?"
-git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
+git commit -m "update(rank-up:added app9.js):Caesar cipher"
