@@ -16,6 +16,7 @@ fundamental
 15. Function that does four basic mathematical operations
 16. Check the sum of array elements is odd or even
 17. Array of integers from n to 1
+18. String ends with other substring?
 
 
 //===============================//
@@ -32,5 +33,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app17.js):Array of integers from n to 1"
+git commit -m "update(fundamentals:added app18.js):String ends with other substring?"
 git commit -m "update(rank-up:added app8.js):Find missed letter in alphabet order"
