@@ -17,6 +17,7 @@ fundamental
 16. Check the sum of array elements is odd or even
 17. Array of integers from n to 1
 18. String ends with other substring?
+19. String without vowels (RegEx, replace)
 
 
 //===============================//
@@ -34,5 +35,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app18.js):String ends with other substring?"
+git commit -m "update(fundamentals:added app19.js):String without vowels"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
