@@ -19,6 +19,7 @@ fundamental
 18. String ends with other substring?
 19. String without vowels (RegEx, replace)
 20. Regex match
+21. Return the months quarter of year
 
 
 //===============================//
@@ -36,5 +37,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app20.js):Regex match"
+git commit -m "update(fundamentals:added app21.js):Return the months quarter of year"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
