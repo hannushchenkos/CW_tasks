@@ -21,7 +21,7 @@ fundamental
 20. Regex match
 21. Return the months quarter of year
 22. Square every digit of a number and concatenate them
-
+23. Summation of every number from 1 to num
 
 //===============================//
 
@@ -38,5 +38,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app22.js):Square every digit of a number and concatenate them"
+git commit -m "update(fundamentals:added app23.js):Summation of every number from 1 to num"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
