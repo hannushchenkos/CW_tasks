@@ -22,6 +22,7 @@ fundamental
 21. Return the months quarter of year
 22. Square every digit of a number and concatenate them
 23. Summation of every number from 1 to num
+24. String repeated n times
 
 //===============================//
 
@@ -38,5 +39,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app23.js):Summation of every number from 1 to num"
+git commit -m "update(fundamentals:added app24.js):String repeated n times"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
