@@ -24,6 +24,7 @@ fundamental
 23. Summation of every number from 1 to num
 24. String repeated n times
 25. 1 sheep...2 sheep...3 sheep...
+26. Compare mark with class average
 
 //===============================//
 
@@ -40,5 +41,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app25.js):1 sheep...2 sheep...3 sheep..."
+git commit -m "update(fundamentals:added app26.js):Compare mark with class average"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
