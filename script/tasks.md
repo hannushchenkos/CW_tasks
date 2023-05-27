@@ -1,13 +1,13 @@
 fundamental
-1. Make negative (-Math.abs)
-2. Check even/odd (%2)
-3. Reversed array from number
-4. Find the smallest integer
-5. Triangle row sum
-6. Sum in binary
-7. Binary array to decimal number
-8. Convert a name into initials 
-9. Multiplying the values of array together
+01. Make negative (-Math.abs)
+02. Check even/odd (%2)
+03. Reversed array from number
+04. Find the smallest integer
+05. Triangle row sum
+06. Sum in binary
+07. Binary array to decimal number
+08. Convert a name into initials 
+09. Multiplying the values of array together
 10. Filter number array from extra types 
 11. Sum of all the integers between two numbers
 12. Calculate body mass index
@@ -23,6 +23,7 @@ fundamental
 22. Square every digit of a number and concatenate them
 23. Summation of every number from 1 to num
 24. String repeated n times
+25. 1 sheep...2 sheep...3 sheep...
 
 //===============================//
 
@@ -39,5 +40,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app24.js):String repeated n times"
+git commit -m "update(fundamentals:added app25.js):1 sheep...2 sheep...3 sheep..."
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
