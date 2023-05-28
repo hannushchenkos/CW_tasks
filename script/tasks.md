@@ -25,6 +25,7 @@ fundamental
 24. String repeated n times
 25. 1 sheep...2 sheep...3 sheep...
 26. Compare mark with class average
+27. Check printer error
 
 //===============================//
 
@@ -41,5 +42,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app26.js):Compare mark with class average"
+git commit -m "update(fundamentals:added app27.js):Check printer error"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
