@@ -26,6 +26,7 @@ fundamental
 25. 1 sheep...2 sheep...3 sheep...
 26. Compare mark with class average
 27. Check printer error
+28. Verify boss or guest
 
 //===============================//
 
@@ -42,5 +43,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app27.js):Check printer error"
+git commit -m "update(fundamentals:added app28.js):Verify boss or guest"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
