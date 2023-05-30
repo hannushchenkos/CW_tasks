@@ -27,6 +27,7 @@ fundamental
 26. Compare mark with class average
 27. Check printer error
 28. Verify boss or guest
+29. Traffic lights control
 
 //===============================//
 
@@ -43,5 +44,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app28.js):Verify boss or guest"
+git commit -m "update(fundamentals:added app29.js):traffic lights control"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
