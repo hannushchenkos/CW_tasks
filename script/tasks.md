@@ -28,6 +28,7 @@ fundamental
 27. Check printer error
 28. Verify boss or guest
 29. Traffic lights control
+30. Create the array with numbers from x till n, multiplied by 1 element
 
 //===============================//
 
@@ -44,5 +45,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app29.js):traffic lights control"
+git commit -m "update(fundamentals:added app30.js):Create the array with numbers from x till n, multiplied by 1 element"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
