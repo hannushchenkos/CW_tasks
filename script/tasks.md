@@ -31,6 +31,7 @@ fundamental
 30. Create the array with numbers from x till n, multiplied by 1 element
 31. Sort string by number in the word
 32. Remove the smallest value in deep copied array
+33. Check if the string has the same amount of 'x' 'o'"
 
 //===============================//
 
@@ -47,5 +48,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app31.js):Remove the smallest value in deep copied array"
+git commit -m "update(fundamentals:added app33.js):Check if the string has the same amount of 'x' 'o'"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
