@@ -33,6 +33,7 @@ fundamental
 32. Remove the smallest value in deep copied array
 33. Check if the string has the same amount of 'x' 'o'"
 34. Check if the triangle can be built
+34. Return middle character of the word
 
 //===============================//
 
@@ -49,5 +50,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app34.js):Check if the triangle can be built"
+git commit -m "update(fundamentals:added app35.js):Return middle character of the word"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
