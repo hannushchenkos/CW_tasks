@@ -33,7 +33,8 @@ fundamental
 32. Remove the smallest value in deep copied array
 33. Check if the string has the same amount of 'x' 'o'"
 34. Check if the triangle can be built
-34. Return middle character of the word
+35. Return middle character of the word
+36. Do they love each other?
 
 //===============================//
 
@@ -50,5 +51,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app35.js):Return middle character of the word"
+git commit -m "update(fundamentals:added app36.js):Do they love each other?"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
