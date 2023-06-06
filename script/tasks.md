@@ -35,6 +35,7 @@ fundamental
 34. Check if the triangle can be built
 35. Return middle character of the word
 36. Do they love each other?
+37. Is employee avaliable?
 
 //===============================//
 
@@ -51,5 +52,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app36.js):Do they love each other?"
+git commit -m "update(fundamentals:added app37.js):Is employee avaliable?"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
