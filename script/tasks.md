@@ -37,6 +37,7 @@ fundamental
 36. Do they love each other?
 37. Is employee avaliable?
 38. Hero and the dragons
+39. Array square sum function
 
 //===============================//
 
@@ -53,5 +54,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app38.js):Hero and the dragons"
+git commit -am "update(fundamentals:added app39.js):Array square sum function"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
