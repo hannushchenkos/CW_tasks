@@ -39,6 +39,7 @@ fundamental
 38. Hero and the dragons
 39. Array square sum function
 40. Classmates paperworks
+41. Number to string
 
 //===============================//
 
@@ -55,5 +56,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app40.js):Classmates paperworks"
+git commit -am "update(fundamentals:added app41.js):Number to string"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
