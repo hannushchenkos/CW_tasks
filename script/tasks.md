@@ -41,6 +41,7 @@ fundamental
 40. Classmates paperworks
 41. Number to string
 42. Name first letter
+43. The lowest and highest from the string
 
 //===============================//
 
@@ -57,5 +58,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app42.js):Name first letter"
+git commit -am "update(fundamentals:added app43.js):The lowest and highest from the string"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
