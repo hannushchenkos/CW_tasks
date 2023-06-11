@@ -42,6 +42,7 @@ fundamental
 41. Number to string
 42. Name first letter
 43. The lowest and highest from the string
+44. Sum of the floats
 
 //===============================//
 
@@ -58,5 +59,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app43.js):The lowest and highest from the string"
+git commit -am "update(fundamentals:added app44.js):Sum of the floats"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
