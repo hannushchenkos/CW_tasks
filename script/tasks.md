@@ -44,6 +44,7 @@ fundamental
 43. The lowest and highest from the string
 44. Sum of the floats
 45. Sorted digits of number to descending order 
+46. Square number 
 
 //===============================//
 
@@ -60,5 +61,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app45.js):Sorted digits of number to descending order"
+git commit -am "update(fundamentals:added app46.js):Square number"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
