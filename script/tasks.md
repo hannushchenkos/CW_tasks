@@ -46,6 +46,7 @@ fundamental
 45. Sorted digits of number to descending order 
 46. Square number 
 47. String to num
+48. Bool to YES or NO
 
 //===============================//
 
@@ -62,5 +63,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app47.js):String to num"
+git commit -am "update(fundamentals:added app48.js):Bool to YES or NO"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
