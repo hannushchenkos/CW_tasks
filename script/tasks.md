@@ -47,6 +47,7 @@ fundamental
 46. Square number 
 47. String to num
 48. Bool to YES or NO
+49. Count of vowels
 
 //===============================//
 
