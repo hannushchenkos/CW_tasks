@@ -48,6 +48,7 @@ fundamental
 47. String to num
 48. Bool to YES or NO
 49. Count of vowels
+50. Count the Messi goals in leagues
 
 //===============================//
 
@@ -64,5 +65,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app48.js):Bool to YES or NO"
+git commit -am "update(fundamentals:added app50.js):Count the Messi goals in leagues"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
