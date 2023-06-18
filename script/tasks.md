@@ -49,6 +49,7 @@ fundamental
 48. Bool to YES or NO
 49. Count of vowels
 50. Count the Messi goals in leagues
+51. Return the index of needle
 
 //===============================//
 
@@ -65,5 +66,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app50.js):Count the Messi goals in leagues"
+git commit -am "update(fundamentals:added app51.js):Return the index of needle"
 git commit -m "update(rank-up:added app9.js):Caesar cipher"
