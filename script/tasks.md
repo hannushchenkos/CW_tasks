@@ -63,8 +63,9 @@ rank-up
 7. Instagram likes functionality
 8. Find missed letter in alphabet order
 9. Caesar cipher
+10. Find two elements in array, which sum is equal to target value
 
 Commit example: 
 
 git commit -am "update(fundamentals:added app51.js):Return the index of needle"
-git commit -m "update(rank-up:added app9.js):Caesar cipher"
+git commit -m "update(rank-up:added app10.js):Find two elements in array, which sum is equal to target value"
