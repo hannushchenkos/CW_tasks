@@ -61,11 +61,12 @@ rank-up
 5. Translate Morse code to string
 6. Break up camel casing
 7. Instagram likes functionality
-8. Find missed letter in alphabet order
+8. Found missed letter in alphabet order
 9. Caesar cipher
-10. Find two elements in array, which sum is equal to target value
+10. Found two elements in array, which sum is equal to target value
+11. Found the element in array, that appears an odd number of times 
 
 Commit example: 
 
 git commit -am "update(fundamentals:added app51.js):Return the index of needle"
-git commit -m "update(rank-up:added app10.js):Find two elements in array, which sum is equal to target value"
+git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
