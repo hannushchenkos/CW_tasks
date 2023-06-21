@@ -50,6 +50,7 @@ fundamental
 49. Count of vowels
 50. Count the Messi goals in leagues
 51. Return the index of needle
+52. The cockroach speed
 
 //===============================//
 
@@ -68,5 +69,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app51.js):Return the index of needle"
+git commit -am "update(fundamentals:added app52.js):The cockroach speed"
 git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
