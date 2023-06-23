@@ -52,6 +52,7 @@ fundamental
 51. Return the index of needle
 52. The cockroach speed
 53. Perfect square (~~ ===)
+54. Found the array average
 
 //===============================//
 
@@ -70,5 +71,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app53.js):Perfect square"
+git commit -am "update(fundamentals:added app54.js):Found array average"
 git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
