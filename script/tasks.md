@@ -53,6 +53,7 @@ fundamental
 52. The cockroach speed
 53. Perfect square (~~ ===)
 54. Found the array average
+55. Open or senior
 
 //===============================//
 
@@ -71,5 +72,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app54.js):Found array average"
+git commit -am "update(fundamentals:added app55.js):Open or senior"
 git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
