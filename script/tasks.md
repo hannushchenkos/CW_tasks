@@ -55,6 +55,7 @@ fundamental
 54. Found the array average
 55. Open or senior
 56. Validate PIN
+57. Remove all exclamation marks
 
 //===============================//
 
@@ -73,5 +74,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app56.js):Validate PIN"
+git commit -am "update(fundamentals:added app57.js):Remove all exclamation marks"
 git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
