@@ -72,8 +72,10 @@ rank-up
 9. Caesar cipher
 10. Found two elements in array, which sum is equal to target value
 11. Found the element in array, that appears an odd number of times 
+12. Count characters in a string to an object"
+
 
 Commit example: 
 
 git commit -am "update(fundamentals:added app58.js):Count the times of occurrences"
-git commit -m "update(rank-up:added app11.js):Found the element in array, that appears an odd number of times"
+git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
