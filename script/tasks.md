@@ -57,6 +57,7 @@ fundamental
 56. Validate PIN
 57. Remove all exclamation marks
 58. Count the times of occurrences
+59. Found the average of the three scores
 
 //===============================//
 
@@ -77,5 +78,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app58.js):Count the times of occurrences"
+git commit -am "update(fundamentals:added app59.js):Found the average of the three scores"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
