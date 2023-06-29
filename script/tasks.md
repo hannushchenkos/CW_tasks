@@ -58,6 +58,7 @@ fundamental
 57. Remove all exclamation marks
 58. Count the times of occurrences
 59. Found the average of the three scores
+60. Filter array from strings - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
 
 //===============================//
 
@@ -78,5 +79,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app59.js):Found the average of the three scores"
+git commit -am "update(fundamentals:added app60.js):Filter the array from strings"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
