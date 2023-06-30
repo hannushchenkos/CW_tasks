@@ -59,7 +59,7 @@ fundamental
 58. Count the times of occurrences
 59. Found the average of the three scores
 60. Filter array from strings - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
-
+61. Count the sheeps - https://www.codewars.com/kata/54edbc7200b811e956000556/
 //===============================//
 
 rank-up
@@ -79,5 +79,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app60.js):Filter the array from strings"
+git commit -am "update(fundamentals:added app61.js):Count the sheeps"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
