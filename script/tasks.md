@@ -60,6 +60,7 @@ fundamental
 59. Found the average of the three scores
 60. Filter array from strings - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
 61. Count the sheeps - https://www.codewars.com/kata/54edbc7200b811e956000556/
+62. Boolean to string - https://www.codewars.com/kata/551b4501ac0447318f0009cd/
 //===============================//
 
 rank-up
@@ -79,5 +80,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app61.js):Count the sheeps"
+git commit -am "update(fundamentals:added app62.js):Boolean to string"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"

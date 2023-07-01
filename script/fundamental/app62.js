@@ -1,0 +1,7 @@
+// Implement a function which convert the given boolean value into its string representation.
+
+// Note: Only valid inputs will be given.
+
+let booleanToString = (b) => `${b}`
+
+console.log(booleanToString(true));
