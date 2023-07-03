@@ -62,6 +62,7 @@ fundamental
 61. Count the sheeps - https://www.codewars.com/kata/54edbc7200b811e956000556/
 62. Boolean to string - https://www.codewars.com/kata/551b4501ac0447318f0009cd/
 63. Filter friends - https://www.codewars.com/kata/55b42574ff091733d900002f/
+64. Sum of the number strings to string - https://www.codewars.com/kata/55b42574ff091733d900002f/
 
 
 //===============================//
@@ -83,5 +84,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app63.js):Filter friends"
+git commit -am "update(fundamentals:added app64.js):Sum of the number strings to string"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
