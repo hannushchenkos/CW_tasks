@@ -64,6 +64,7 @@ fundamental
 63. Filter friends - https://www.codewars.com/kata/55b42574ff091733d900002f/
 64. Sum of the number strings to string - https://www.codewars.com/kata/5966e33c4e686b508700002d
 65. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
+66. Count milliseconds - 
 
 
 //===============================//
@@ -85,5 +86,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app65.js):Count of all the devisors of the number"
+git commit -am "update(fundamentals:added app66.js):Count the milliseconds"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
