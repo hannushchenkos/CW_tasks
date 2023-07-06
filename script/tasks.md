@@ -65,7 +65,7 @@ fundamental
 64. Sum of the number strings to string - https://www.codewars.com/kata/5966e33c4e686b508700002d
 65. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
 66. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
-67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
+67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
 
 
 //===============================//
