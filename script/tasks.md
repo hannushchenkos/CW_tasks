@@ -64,7 +64,8 @@ fundamental
 63. Filter friends - https://www.codewars.com/kata/55b42574ff091733d900002f/
 64. Sum of the number strings to string - https://www.codewars.com/kata/5966e33c4e686b508700002d
 65. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
-66. Count milliseconds - 
+66. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
+67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 
 
 //===============================//
@@ -86,5 +87,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app66.js):Count the milliseconds"
+git commit -am "update(fundamentals:added app67.js):Count sum of negatives and count of positives"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
