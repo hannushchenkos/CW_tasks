@@ -66,6 +66,7 @@ fundamental
 65. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
 66. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
 67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
+68. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
 
 
 //===============================//
@@ -87,5 +88,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app67.js):Count sum of negatives and count of positives"
+git commit -am "update(fundamentals:added app68.js):Calculate when father would be twice older his son"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
