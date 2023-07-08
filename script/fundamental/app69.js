@@ -9,5 +9,3 @@ const reverseWords = (str) => str.split(" ").map(word => word.split("").reverse(
 // var reverseWords=s=>s.replace(/\S+/g,v=>[...v].reverse().join``)
 
 console.log(reverseWords('Let it snow!'));
-
-git commit -am "update(fundamentals:added app69.js):Reverse every word of the string"
