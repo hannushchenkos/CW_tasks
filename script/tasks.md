@@ -69,6 +69,7 @@ fundamental
 68. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
 69. Reverse every word of the string - https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
 70!. Check if the string is palindrom
+71. Count the passengers in the bus - https://www.codewars.com/kata/5648b12ce68d9daa6b000099/
 
 
 //===============================//
@@ -90,5 +91,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app69.js):Reverse every word of the string"
+git commit -m "update(fundamentals:added app71.js):Count the passengers in the bus"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
