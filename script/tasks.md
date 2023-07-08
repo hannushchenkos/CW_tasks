@@ -68,6 +68,7 @@ fundamental
 67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
 68. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
 69. Reverse every word of the string - https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
+70!. Check if the string is palindrom
 
 
 //===============================//
