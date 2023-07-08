@@ -67,6 +67,7 @@ fundamental
 66. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
 67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
 68. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
+69. Reverse every word of the string - https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
 
 
 //===============================//
@@ -88,5 +89,5 @@ rank-up
 
 Commit example: 
 
-git commit -am "update(fundamentals:added app68.js):Calculate when father would be twice older his son"
+git commit -am "update(fundamentals:added app69.js):Reverse every word of the string"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
