@@ -72,7 +72,7 @@ fundamental
 71. Count the passengers in the bus - https://www.codewars.com/kata/5648b12ce68d9daa6b000099/
 72. Remove first and last char in the str - https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/
 73. Correct letters in str - https://www.codewars.com/kata/577bd026df78c19bca0002c0/ 
-
+74. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
 
 //===============================//
 
@@ -93,5 +93,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app73.js):Correct letters in str"
+git commit -m "update(fundamentals:added app74.js):Clear the domain name"
 git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
