@@ -89,9 +89,10 @@ rank-up
 10. Found two elements in array, which sum is equal to target value
 11. Found the element in array, that appears an odd number of times 
 12. Count characters in a string to an object"
+13. Check if the number is equal to its digits sum in pow
 
 
 Commit example: 
 
 git commit -m "update(fundamentals:added app74.js):Clear the domain name"
-git commit -m "update(rank-up:added app11.js):Count characters in a string to an object"
+git commit -m "update(rank-up:added app13.js):Check if the number is equal to its digits sum in pow"
