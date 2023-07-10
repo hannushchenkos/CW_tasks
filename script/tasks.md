@@ -73,6 +73,7 @@ fundamental
 72. Remove first and last char in the str - https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/
 73. Correct letters in str - https://www.codewars.com/kata/577bd026df78c19bca0002c0/ 
 74. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
+75. Rock! Scissors! Paper! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/
 
 //===============================//
 
@@ -94,5 +95,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app74.js):Clear the domain name"
+git commit -m "update(fundamentals:added app75.js):Rock! Scissors! Paper!"
 git commit -m "update(rank-up:added app13.js):Check if the number is equal to its digits sum in pow"
