@@ -89,7 +89,7 @@ rank-up
 10. Found two elements in array, which sum is equal to target value
 11. Found the element in array, that appears an odd number of times 
 12. Count characters in a string to an object"
-13. Check if the number is equal to its digits sum in pow
+13. Check if the number is equal to its digits sum in pow - https://www.codewars.com/kata/5626b561280a42ecc50000d1/
 
 
 Commit example: 
