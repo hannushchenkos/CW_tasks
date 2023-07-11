@@ -74,6 +74,8 @@ fundamental
 73. Correct letters in str - https://www.codewars.com/kata/577bd026df78c19bca0002c0/ 
 74. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
 75. Rock! Scissors! Paper! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/
+76. Find the first element of an array that is not consecutive - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
+
 
 //===============================//
 
@@ -95,5 +97,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app75.js):Rock! Scissors! Paper!"
+git commit -m "update(fundamentals:added app76.js):Find the first element of an array that is not consecutive"
 git commit -m "update(rank-up:added app13.js):Check if the number is equal to its digits sum in pow"
