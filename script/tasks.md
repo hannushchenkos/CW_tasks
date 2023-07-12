@@ -75,6 +75,7 @@ fundamental
 74. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
 75. Rock! Scissors! Paper! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/
 76. Find the first element of an array that is not consecutive - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
+77. Create a function to check Fibonacci number
 
 
 //===============================//
@@ -97,5 +98,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app76.js):Find the first element of an array that is not consecutive"
+git commit -m "update(fundamentals:added app77.js):Create a function to check Fibonacci number"
 git commit -m "update(rank-up:added app13.js):Check if the number is equal to its digits sum in pow"
