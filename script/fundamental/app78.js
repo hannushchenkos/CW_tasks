@@ -1,7 +1,5 @@
 //Create a function to check Fibonacci number
 
-//https://www.codewars.com/kata/5541f58a944b85ce6d00006a
-
 // function productFib(prod){
 //   let arrFib = [0,1];
 //   let temp = 0;
