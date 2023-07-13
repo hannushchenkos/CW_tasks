@@ -77,6 +77,7 @@ fundamental
 76. Find the first element of an array that is not consecutive - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
 77. Create a function to check Fibonacci number
 78. Create a function to check Fibonacci number(2) - https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+79. Animals feast - https://www.codewars.com/kata/5aa736a455f906981800360d
 
 
 //===============================//
@@ -99,5 +100,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app78.js):Create a function to check Fibonacci number(2)"
+git commit -m "update(fundamentals:added app79.js):Animals feast"
 git commit -m "update(rank-up:added app13.js):Check if the number is equal to its digits sum in pow"
