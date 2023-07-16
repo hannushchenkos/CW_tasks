@@ -21,8 +21,8 @@ function high(x){
   // console.log(xArrPoints);
 
   let indexOfTheLargest = () => {
-    maxPoints = 0;
-    maxIndex = 0;
+    let maxPoints = 0;
+    let maxIndex = 0;
     xArrPoints.forEach((item, index)=>{
       if (item > maxPoints) {
         maxPoints = item;
