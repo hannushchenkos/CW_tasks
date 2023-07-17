@@ -80,7 +80,7 @@ fundamental
 79. Animals feast - https://www.codewars.com/kata/5aa736a455f906981800360d
 80. Encourage Alex - https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/
 81. Count football points - https://www.codewars.com/kata/5bb904724c47249b10000131/
-
+82. Earn desired sum - https://www.codewars.com/kata/563f037412e5ada593000114/
 
 //===============================//
 
@@ -103,5 +103,5 @@ rank-up
 
 Commit example: 
 
-git commit -m "update(fundamentals:added app81.js):Count football points"
+git commit -m "update(fundamentals:added app82.js):Earn desired sum"
 git commit -m "update(rank-up:added app14.js):Find the word with the highest score"
