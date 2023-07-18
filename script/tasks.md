@@ -83,8 +83,13 @@ fundamental
 82. Earn desired sum - https://www.codewars.com/kata/563f037412e5ada593000114/
 83. HumanYears,catYears,dogYears - https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/
 84. Remove lowercase vowels - https://www.codewars.com/kata/5547929140907378f9000039/
+85. Convert digit to the word - 
 
 
+
+//===============================//
+Commit example: 
+git commit -m "update(fundamentals:added app85.js):Convert digit to the word"
 //===============================//
 
 rank-up
@@ -104,7 +109,8 @@ rank-up
 14. Find the word with the highest score - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/
 
 
-Commit example: 
 
-git commit -m "update(fundamentals:added app84.js):Remove lowercase vowels"
+//===============================//
+Commit example: 
 git commit -m "update(rank-up:added app14.js):Find the word with the highest score"
+//===============================//
