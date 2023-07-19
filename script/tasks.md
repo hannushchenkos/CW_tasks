@@ -83,13 +83,14 @@ fundamental
 82. Earn desired sum - https://www.codewars.com/kata/563f037412e5ada593000114/
 83. HumanYears,catYears,dogYears - https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/
 84. Remove lowercase vowels - https://www.codewars.com/kata/5547929140907378f9000039/
-85. Convert digit to the word - 
+85. Convert digit to the word - https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/
+86. Fill the array with limit numbers - https://www.codewars.com/kata/58ca658cc0d6401f2700045f/
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app85.js):Convert digit to the word"
+git commit -m "update(fundamentals:added app86.js):Fill the array with limit numbers"
 //===============================//
 
 rank-up
