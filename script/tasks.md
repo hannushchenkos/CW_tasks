@@ -86,12 +86,13 @@ fundamental
 85. Convert digit to the word - https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/
 86. Fill the array with limit numbers - https://www.codewars.com/kata/58ca658cc0d6401f2700045f/
 87. Check the CAPSCASE of the string - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/
+88. Find unique element - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app87.js):Check the CAPSCASE of the string"
+git commit -m "update(fundamentals:added app88.js):Find unique element"
 //===============================//
 
 rank-up
