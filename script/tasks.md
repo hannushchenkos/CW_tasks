@@ -88,11 +88,13 @@ fundamental
 87. Check the CAPSCASE of the string - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/
 88. Find unique element - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
 89. Find min and max of the list - https://www.codewars.com/kata/577a98a6ae28071780000989
+90. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
+
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app89.js):Find min and max of the list "
+git commit -m "update(fundamentals:added app90.js):Find the winner"
 //===============================//
 
 rank-up
