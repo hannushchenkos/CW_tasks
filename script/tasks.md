@@ -90,11 +90,11 @@ fundamental
 89. Find min and max of the list - https://www.codewars.com/kata/577a98a6ae28071780000989
 90. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
 91. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
-
+92. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app91.js):Replace digits"
+git commit -m "update(fundamentals:added app92.js):Year to century"
 //===============================//
 
 rank-up
