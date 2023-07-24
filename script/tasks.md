@@ -89,12 +89,12 @@ fundamental
 88. Find unique element - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
 89. Find min and max of the list - https://www.codewars.com/kata/577a98a6ae28071780000989
 90. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
-
+91. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app90.js):Find the winner"
+git commit -m "update(fundamentals:added app91.js):Replace digits"
 //===============================//
 
 rank-up
