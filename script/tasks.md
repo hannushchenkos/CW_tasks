@@ -91,10 +91,12 @@ fundamental
 90. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
 91. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
 92. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+93. Calculator - https://www.codewars.com/kata/583f158ea20cfcbeb400000a/
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app92.js):Year to century"
+git commit -m "update(fundamentals:added app93.js):Calculator"
 //===============================//
 
 rank-up
