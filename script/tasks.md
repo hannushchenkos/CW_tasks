@@ -92,11 +92,12 @@ fundamental
 91. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
 92. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
 93. Calculator - https://www.codewars.com/kata/583f158ea20cfcbeb400000a/
+94. Function that always returns 5 - https://www.codewars.com/kata/59441520102eaa25260000bf/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app93.js):Calculator"
+git commit -m "update(fundamentals:added app94.js):Function that always returns 5"
 //===============================//
 
 rank-up
