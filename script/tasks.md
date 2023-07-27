@@ -93,11 +93,12 @@ fundamental
 92. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
 93. Calculator - https://www.codewars.com/kata/583f158ea20cfcbeb400000a/
 94. Function that always returns 5 - https://www.codewars.com/kata/59441520102eaa25260000bf/
+95. Function that retunrs indexes of all the capitals - https://www.codewars.com/kata/539ee3b6757843632d00026b/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app94.js):Function that always returns 5"
+git commit -m "update(fundamentals:added app95.js):Function that retunrs indexes of all the capitals"
 //===============================//
 
 rank-up
