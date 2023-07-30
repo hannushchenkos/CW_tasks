@@ -118,10 +118,11 @@ rank-up
 13. Check if the number is equal to its digits sum in pow - https://www.codewars.com/kata/5626b561280a42ecc50000d1/
 14. Find the word with the highest score - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/
 15. ASCII diamond art - https://www.codewars.com/kata/5503013e34137eeeaa001648/
+16. Remove the items that repeat N times - https://www.codewars.com/kata/554ca54ffa7d91b236000023 (not ready)
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(rank-up:added app15.js):ASCII art"
+git commit -m "update(rank-up:added app16.js):Remove the items that repeat N times"
 //===============================//
