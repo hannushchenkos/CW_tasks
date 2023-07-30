@@ -99,7 +99,7 @@ fundamental
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app96.js):Calculate the final grade"
+git commit -m "update(fundamentals:added app97.js):Multiply number"
 //===============================//
 
 rank-up
