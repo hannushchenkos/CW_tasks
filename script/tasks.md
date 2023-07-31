@@ -95,11 +95,13 @@ fundamental
 94. Function that always returns 5 - https://www.codewars.com/kata/59441520102eaa25260000bf/
 95. Function that retunrs indexes of all the capitals - https://www.codewars.com/kata/539ee3b6757843632d00026b/
 96. Calculate the final grade - https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+97. Multiply number - https://www.codewars.com/kata/55a5bfaa756cfede78000026/
+98. Remove every second item - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app97.js):Multiply number"
+git commit -m "update(fundamentals:added app98.js):Remove every second item"
 //===============================//
 
 rank-up
