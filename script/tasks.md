@@ -97,11 +97,12 @@ fundamental
 96. Calculate the final grade - https://www.codewars.com/kata/5ad0d8356165e63c140014d4
 97. Multiply number - https://www.codewars.com/kata/55a5bfaa756cfede78000026/
 98. Remove every second item - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
+99. Multiply each char in string - https://www.codewars.com/kata/56b1f01c247c01db92000076
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app98.js):Remove every second item"
+git commit -m "update(fundamentals:added app99.js):Multiply each char in string"
 //===============================//
 
 rank-up
