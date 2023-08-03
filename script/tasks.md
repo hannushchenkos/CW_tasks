@@ -99,10 +99,11 @@ fundamental
 98. Remove every second item - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 99. Multiply each char in string - https://www.codewars.com/kata/56b1f01c247c01db92000076
 100. Multiplication table for number - https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/
+101. Fill the array from a to b - https://www.codewars.com/kata/55ecd718f46fba02e5000029/ 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app100.js):Multiplication table for number"
+git commit -m "update(fundamentals:added app101.js):Fill the array from a to b"
 //===============================//
 
 rank-up
