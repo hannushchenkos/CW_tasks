@@ -103,10 +103,11 @@ fundamental
 102. Modify word into array - https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/ 
 103. Pow the number - https://www.codewars.com/kata/523b623152af8a30c6000027
 104. Shortest word - https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+105. N elements of list - https://www.codewars.com/kata/545afd0761aa4c3055001386/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app104.js):Shortest word"
+git commit -m "update(fundamentals:added app105.js):N elements of list"
 //===============================//
 
 rank-up
