@@ -101,10 +101,11 @@ fundamental
 100. Multiplication table for number - https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/
 101. Fill the array from a to b - https://www.codewars.com/kata/55ecd718f46fba02e5000029/ 
 102. Modify word into array - https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/ 
+103. Pow the number - https://www.codewars.com/kata/523b623152af8a30c6000027
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app102.js):Modify word into array"
+git commit -m "update(fundamentals:added app103.js):Pow the number"
 //===============================//
 
 rank-up
