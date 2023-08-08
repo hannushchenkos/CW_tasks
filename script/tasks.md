@@ -104,10 +104,13 @@ fundamental
 103. Pow the number - https://www.codewars.com/kata/523b623152af8a30c6000027
 104. Shortest word - https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 105. N elements of list - https://www.codewars.com/kata/545afd0761aa4c3055001386/
+106. Remove zeros from number - https://www.codewars.com/kata/570a6a46455d08ff8d001002/
+
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app105.js):N elements of list"
+git commit -m "update(fundamentals:added app106.js):Remove zeros from number"
 //===============================//
 
 rank-up
