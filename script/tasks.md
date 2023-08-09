@@ -105,12 +105,12 @@ fundamental
 104. Shortest word - https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 105. N elements of list - https://www.codewars.com/kata/545afd0761aa4c3055001386/
 106. Remove zeros from number - https://www.codewars.com/kata/570a6a46455d08ff8d001002/
-
+107. Remove exclamation mark - https://www.codewars.com/kata/57fae964d80daa229d000126/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app106.js):Remove zeros from number"
+git commit -m "update(fundamentals:added app107.js):Remove exclamation mark"
 //===============================//
 
 rank-up
