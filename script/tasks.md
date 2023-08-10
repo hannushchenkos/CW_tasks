@@ -106,11 +106,12 @@ fundamental
 105. N elements of list - https://www.codewars.com/kata/545afd0761aa4c3055001386/
 106. Remove zeros from number - https://www.codewars.com/kata/570a6a46455d08ff8d001002/
 107. Remove exclamation mark - https://www.codewars.com/kata/57fae964d80daa229d000126/
+108. Sum digits of the number - https://www.codewars.com/kata/52f3149496de55aded000410/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app107.js):Remove exclamation mark"
+git commit -m "update(fundamentals:added app108.js):Sum digits of the number"
 //===============================//
 
 rank-up
