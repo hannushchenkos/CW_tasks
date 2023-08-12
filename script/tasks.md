@@ -108,11 +108,12 @@ fundamental
 107. Remove exclamation mark - https://www.codewars.com/kata/57fae964d80daa229d000126/
 108. Sum digits of the number - https://www.codewars.com/kata/52f3149496de55aded000410/
 109. Convert hex number to a decimal - https://www.codewars.com/kata/57a4d500e298a7952100035d/
+110. Fill array from min to max - https://www.codewars.com/kata/56b29582461215098d00000f/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app109.js):Convert hex number to a decimal"
+git commit -m "update(fundamentals:added app110.js):Fill array from min to max"
 //===============================//
 
 rank-up
