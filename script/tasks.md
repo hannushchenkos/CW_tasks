@@ -109,11 +109,12 @@ fundamental
 108. Sum digits of the number - https://www.codewars.com/kata/52f3149496de55aded000410/
 109. Convert hex number to a decimal - https://www.codewars.com/kata/57a4d500e298a7952100035d/
 110. Fill array from min to max - https://www.codewars.com/kata/56b29582461215098d00000f/
+111. Palindrom check - https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app110.js):Fill array from min to max"
+git commit -m "update(fundamentals:added app111.js):Palindrom check"
 //===============================//
 
 rank-up
