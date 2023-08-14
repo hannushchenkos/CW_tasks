@@ -111,11 +111,12 @@ fundamental
 110. Fill array from min to max - https://www.codewars.com/kata/56b29582461215098d00000f/
 111. Palindrom check - https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/
 112. Swap first and last names - https://www.codewars.com/kata/559ac78160f0be07c200005a
+113. Drink or not - https://www.codewars.com/kata/56170e844da7c6f647000063/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app112.js):Swap first and last names"
+git commit -m "update(fundamentals:added app113.js):Drink or not"
 //===============================//
 
 rank-up
