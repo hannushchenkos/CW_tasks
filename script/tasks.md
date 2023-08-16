@@ -137,10 +137,11 @@ rank-up
 14. Find the word with the highest score - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/
 15. ASCII diamond art - https://www.codewars.com/kata/5503013e34137eeeaa001648/
 16. Remove the items that repeat N times - https://www.codewars.com/kata/554ca54ffa7d91b236000023 (not ready)
+17. Upper or LowerCase - https://www.codewars.com/kata/5b180e9fedaa564a7000009a/
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(rank-up:added app16.js):Remove the items that repeat N times"
+git commit -m "update(rank-up:added app17.js):Upper or LowerCase"
 //===============================//
