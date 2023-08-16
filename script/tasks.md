@@ -110,11 +110,12 @@ fundamental
 109. Convert hex number to a decimal - https://www.codewars.com/kata/57a4d500e298a7952100035d/
 110. Fill array from min to max - https://www.codewars.com/kata/56b29582461215098d00000f/
 111. Palindrom check - https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/
+112. Swap first and last names - https://www.codewars.com/kata/559ac78160f0be07c200005a
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app111.js):Palindrom check"
+git commit -m "update(fundamentals:added app112.js):Swap first and last names"
 //===============================//
 
 rank-up
