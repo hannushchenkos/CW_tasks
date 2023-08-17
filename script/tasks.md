@@ -113,11 +113,12 @@ fundamental
 112. Swap first and last names - https://www.codewars.com/kata/559ac78160f0be07c200005a
 113. Drink or not - https://www.codewars.com/kata/56170e844da7c6f647000063/
 114. Filter the string from numbers - https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/
+115. Resize letters according to index - https://www.codewars.com/kata/59cfc000aeb2844d16000075
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app114.js):Filter the string from numbers"
+git commit -m "update(fundamentals:added app115.js):Resize letters according to index"
 //===============================//
 
 rank-up
