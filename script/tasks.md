@@ -114,12 +114,12 @@ fundamental
 113. Drink or not - https://www.codewars.com/kata/56170e844da7c6f647000063/
 114. Filter the string from numbers - https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/
 115. Resize letters according to index - https://www.codewars.com/kata/59cfc000aeb2844d16000075
-117. Calculate volume of the cube - https://www.codewars.com/kata/58261acb22be6e2ed800003a
-
+116. Calculate volume of the cube - https://www.codewars.com/kata/58261acb22be6e2ed800003a
+117. Calculate the amount of liters - https://www.codewars.com/kata/582cb0224e56e068d800003c
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app116.js):Calculate volume of the cube"
+git commit -m "update(fundamentals:added app117.js):Calculate the amount of liters"
 //===============================//
 
 rank-up
