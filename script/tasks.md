@@ -117,11 +117,14 @@ fundamental
 116. Calculate volume of the cube - https://www.codewars.com/kata/58261acb22be6e2ed800003a
 117. Calculate the amount of liters - https://www.codewars.com/kata/582cb0224e56e068d800003c
 118. Count smiles in the array - https://www.codewars.com/kata/583203e6eb35d7980400002a/
-119. 
+119. Alternative case (String.prototype) - https://www.codewars.com/kata/56efc695740d30f963000557/
+120. 
+121. 
+122. 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app118.js):Count smiles in the array"
+git commit -m "update(fundamentals:added app119.js):Alternative case"
 //===============================//
 
 rank-up
