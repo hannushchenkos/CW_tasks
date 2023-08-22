@@ -118,13 +118,15 @@ fundamental
 117. Calculate the amount of liters - https://www.codewars.com/kata/582cb0224e56e068d800003c
 118. Count smiles in the array - https://www.codewars.com/kata/583203e6eb35d7980400002a/
 119. Alternative case (String.prototype) - https://www.codewars.com/kata/56efc695740d30f963000557/
-120. 
+120. Number of the lightsabers - https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/
 121. 
 122. 
+123. 
+124. 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app119.js):Alternative case"
+git commit -m "update(fundamentals:added app120.js):Number of the lightsabers"
 //===============================//
 
 rank-up
