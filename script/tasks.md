@@ -119,14 +119,14 @@ fundamental
 118. Count smiles in the array - https://www.codewars.com/kata/583203e6eb35d7980400002a/
 119. Alternative case (String.prototype) - https://www.codewars.com/kata/56efc695740d30f963000557/
 120. Number of the lightsabers - https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/
-121. 
+121. ASCII char - https://www.codewars.com/kata/55ad04714f0b468e8200001c/
 122. 
 123. 
 124. 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app120.js):Number of the lightsabers"
+git commit -m "update(fundamentals:added app121.js):ASCII char"
 //===============================//
 
 rank-up
