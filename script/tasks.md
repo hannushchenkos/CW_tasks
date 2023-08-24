@@ -120,13 +120,13 @@ fundamental
 119. Alternative case (String.prototype) - https://www.codewars.com/kata/56efc695740d30f963000557/
 120. Number of the lightsabers - https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/
 121. ASCII char - https://www.codewars.com/kata/55ad04714f0b468e8200001c/
-122. 
+122. Factor of base - https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train
 123. 
 124. 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app121.js):ASCII char"
+git commit -m "update(fundamentals:added app122.js):Factor of base"
 //===============================//
 
 rank-up
