@@ -121,12 +121,12 @@ fundamental
 120. Number of the lightsabers - https://www.codewars.com/kata/51f9d93b4095e0a7200001b8/
 121. ASCII char - https://www.codewars.com/kata/55ad04714f0b468e8200001c/
 122. Factor of base - https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train
-123. 
+123. Fix the student issue - https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/
 124. 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app122.js):Factor of base"
+git commit -m "update(fundamentals:added app123.js):Fix student issue"
 //===============================//
 
 rank-up
