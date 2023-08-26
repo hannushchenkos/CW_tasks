@@ -122,11 +122,11 @@ fundamental
 121. ASCII char - https://www.codewars.com/kata/55ad04714f0b468e8200001c/
 122. Factor of base - https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train
 123. Fix the student issue - https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/
-124. 
+124. Return correct greet - https://www.codewars.com/kata/577ff15ad648a14b780000e7/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app123.js):Fix student issue"
+git commit -m "update(fundamentals:added app124.js):Return correct greet"
 //===============================//
 
 rank-up
