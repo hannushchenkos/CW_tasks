@@ -124,10 +124,11 @@ fundamental
 123. Fix the student issue - https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/
 124. Return correct greet - https://www.codewars.com/kata/577ff15ad648a14b780000e7/
 125. Sort the array with int numbers - https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/
+126. Validate the ticket - https://www.codewars.com/kata/539de388a540db7fec000642
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app125.js):Sort the array with int numbers"
+git commit -m "update(fundamentals:added app126.js):Validate the ticket"
 //===============================//
 
 rank-up
