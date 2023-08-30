@@ -126,11 +126,11 @@ fundamental
 125. Sort the array with int numbers - https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/
 126. Validate the ticket - https://www.codewars.com/kata/539de388a540db7fec000642
 127. Sum of the two min numbers - https://www.codewars.com/kata/558fc85d8fd1938afb000014/
-128. 
+128. Binary to the decimal - https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app127.js):Sum of the two min numbers"
+git commit -m "update(fundamentals:added app128.js):Binary to the decimal"
 //===============================//
 
 rank-up
