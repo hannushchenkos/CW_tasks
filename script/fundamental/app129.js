@@ -11,6 +11,7 @@
 // NOTE: All numbers will be whole numbers greater than 0.
 
 // If you liked this kata, check out part 2!!
+// https://www.codewars.com/kata/write-number-in-expanded-form-part-2
 
 
 function expandedForm(num) {

@@ -128,10 +128,11 @@ fundamental
 127. Sum of the two min numbers - https://www.codewars.com/kata/558fc85d8fd1938afb000014/
 128. Binary to the decimal - https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/
 129. Number in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245
+130. Return array with the each item and its length - https://www.codewars.com/kata/559d2284b5bb6799e9000047/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app129.js):Number in Expanded Form"
+git commit -m "update(fundamentals:added app130.js):Return array with the each item and its length"
 //===============================//
 
 rank-up
