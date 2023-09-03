@@ -130,10 +130,11 @@ fundamental
 129. Number in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245
 130. Return array with the each item and its length - https://www.codewars.com/kata/559d2284b5bb6799e9000047/
 131. Count the population - https://www.codewars.com/kata/563b662a59afc2b5120000c6/
+132. Return central letter of the word - https://www.codewars.com/kata/56747fd5cb988479af000028/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app131.js):Count the population"
+git commit -m "update(fundamentals:added app132.js):Return central letter of the word"
 //===============================//
 
 rank-up
