@@ -37,3 +37,5 @@ let getMiddle = (s) => s.length % 2 === 0 ? s.split("")[s.length / 2 - 1] + s[s.
 // {
 //   return s.substring(Math.ceil(s.length/2)-1, Math.floor(s.length/2)+1)
 // }
+
+// const getMiddle = s => s.substr(s.length - 1 >>> 1, (~s.length & 1) + 1);
