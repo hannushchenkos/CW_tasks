@@ -131,10 +131,11 @@ fundamental
 130. Return array with the each item and its length - https://www.codewars.com/kata/559d2284b5bb6799e9000047/
 131. Count the population - https://www.codewars.com/kata/563b662a59afc2b5120000c6/
 132. Return central letter of the word - https://www.codewars.com/kata/56747fd5cb988479af000028/
+133. Removes duplicates from an array (Set to arr)- https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app132.js):Return central letter of the word"
+git commit -m "update(fundamentals:added app133.js):Removes duplicates from an array"
 //===============================//
 
 rank-up
