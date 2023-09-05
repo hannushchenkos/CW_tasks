@@ -133,10 +133,11 @@ fundamental
 132. Return central letter of the word - https://www.codewars.com/kata/56747fd5cb988479af000028/
 133. Remove duplicates from an array (Set to arr)- https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/
 134. Count the occurances of d in numbers - https://www.codewars.com/kata/566fc12495810954b1000030/
+135. Remove all the numbers from the string - https://www.codewars.com/kata/57e1e61ba396b3727c000251/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app134.js):Count the occurances of d in numbers"
+git commit -m "update(fundamentals:added app135.js):Remove all the numbers from the string"
 //===============================//
 
 rank-up
