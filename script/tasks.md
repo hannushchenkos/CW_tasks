@@ -134,10 +134,11 @@ fundamental
 133. Remove duplicates from an array (Set to arr)- https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/
 134. Count the occurances of d in numbers - https://www.codewars.com/kata/566fc12495810954b1000030/
 135. Remove all the numbers from the string - https://www.codewars.com/kata/57e1e61ba396b3727c000251/
+136. Area or square - https://www.codewars.com/kata/5ab6538b379d20ad880000ab/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app135.js):Remove all the numbers from the string"
+git commit -m "update(fundamentals:added app136.js):Area or square"
 //===============================//
 
 rank-up
