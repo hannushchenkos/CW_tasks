@@ -135,10 +135,11 @@ fundamental
 134. Count the occurances of d in numbers - https://www.codewars.com/kata/566fc12495810954b1000030/
 135. Remove all the numbers from the string - https://www.codewars.com/kata/57e1e61ba396b3727c000251/
 136. Area or square - https://www.codewars.com/kata/5ab6538b379d20ad880000ab/
+137. Get drink by profession - https://www.codewars.com/kata/568dc014440f03b13900001d/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app136.js):Area or square"
+git commit -m "update(fundamentals:added app137.js):Get drink by profession"
 //===============================//
 
 rank-up
