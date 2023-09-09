@@ -137,10 +137,11 @@ fundamental
 136. Area or square - https://www.codewars.com/kata/5ab6538b379d20ad880000ab/
 137. Get drink by profession - https://www.codewars.com/kata/568dc014440f03b13900001d/
 138. Mumbling - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/
+139. Factorial - 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app138.js):Mumbling"
+git commit -m "update(fundamentals:added app139.js):Factorial"
 //===============================//
 
 rank-up
