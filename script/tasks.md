@@ -137,11 +137,12 @@ fundamental
 136. Area or square - https://www.codewars.com/kata/5ab6538b379d20ad880000ab/
 137. Get drink by profession - https://www.codewars.com/kata/568dc014440f03b13900001d/
 138. Mumbling - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/
-139. Factorial - 
+139. Factorial - https://www.codewars.com/kata/57a049e253ba33ac5e000212
+140. Sum all the items in the array - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app139.js):Factorial"
+git commit -m "update(fundamentals:added app140.js):Sum all the items in the array"
 //===============================//
 
 rank-up
