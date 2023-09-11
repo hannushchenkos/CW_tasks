@@ -140,10 +140,11 @@ fundamental
 139. Factorial - https://www.codewars.com/kata/57a049e253ba33ac5e000212
 140. Sum all the items in the array - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 141. Group the people weight - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
+142. Remove spaces - https://www.codewars.com/kata/57eae20f5500ad98e50002c5/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app141.js):Group the people weight"
+git commit -m "update(fundamentals:added app142.js):Remove spaces"
 //===============================//
 
 rank-up
