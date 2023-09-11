@@ -139,10 +139,11 @@ fundamental
 138. Mumbling - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/
 139. Factorial - https://www.codewars.com/kata/57a049e253ba33ac5e000212
 140. Sum all the items in the array - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
+141. Group the people weight - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app140.js):Sum all the items in the array"
+git commit -m "update(fundamentals:added app141.js):Group the people weight"
 //===============================//
 
 rank-up
