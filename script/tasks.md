@@ -141,10 +141,11 @@ fundamental
 140. Sum all the items in the array - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 141. Group the people weight - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 142. Remove spaces - https://www.codewars.com/kata/57eae20f5500ad98e50002c5/
+143. Return the correct string -  https://www.codewars.com/kata/571f1eb77e8954a812000837/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app142.js):Remove spaces"
+git commit -m "update(fundamentals:added app143.js):Return the correct string"
 //===============================//
 
 rank-up
