@@ -1,103 +1,103 @@
 fundamental
-01. Make negative (-Math.abs)
-02. Check even/odd (%2)
-03. Reversed array from number
-04. Find the smallest integer
-05. Triangle row sum
-06. Sum in binary
-07. Binary array to decimal number
-08. Convert a name into initials 
-09. Multiplying the values of array together
-10. Filter number array from extra types 
-11. Sum of all the integers between two numbers
-12. Calculate body mass index
-13. Translates a given DNA string into RNA
-14. Sum of all of the positives
-15. Function that does four basic mathematical operations
-16. Check the sum of array elements is odd or even
-17. Array of integers from n to 1
-18. String ends with other substring?
-19. String without vowels (RegEx, replace)
-20. Regex match
-21. Return the months quarter of year
-22. Square every digit of a number and concatenate them
-23. Summation of every number from 1 to num
-24. String repeated n times
-25. 1 sheep...2 sheep...3 sheep...
-26. Compare mark with class average
-27. Check printer error
-28. Verify boss or guest
-29. Traffic lights control
-30. Create the array with numbers from x till n, multiplied by 1 element
-31. Sort string by number in the word
-32. Remove the smallest value in deep copied array
-33. Check if the string has the same amount of 'x' 'o'"
-34. Check if the triangle can be built
-35. Return middle character of the word
-36. Do they love each other?
-37. Is employee avaliable?
-38. Hero and the dragons
-39. Array square sum function
-40. Classmates paperworks
-41. Number to string
-42. Name first letter
-43. The lowest and highest from the string
-44. Sum of the floats
-45. Sorted digits of number to descending order 
-46. Square number 
-47. String to num
-48. Bool to YES or NO
-49. Count of vowels
-50. Count the Messi goals in leagues
-51. Return the index of needle
-52. The cockroach speed
-53. Perfect square (~~ ===)
-54. Found the array average
-55. Open or senior
-56. Validate PIN
-57. Remove all exclamation marks
-58. Count the times of occurrences
-59. Found the average of the three scores
-60. Filter array from strings - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
-61. Count the sheeps - https://www.codewars.com/kata/54edbc7200b811e956000556/
-62. Boolean to string - https://www.codewars.com/kata/551b4501ac0447318f0009cd/
-63. Filter friends - https://www.codewars.com/kata/55b42574ff091733d900002f/
-64. Sum of the number strings to string - https://www.codewars.com/kata/5966e33c4e686b508700002d
-65. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
-66. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
-67*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
-68. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
-69. Reverse every word of the string - https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
-70!. Check if the string is palindrom
-71. Count the passengers in the bus - https://www.codewars.com/kata/5648b12ce68d9daa6b000099/
-72. Remove first and last char in the str - https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/
-73. Correct letters in str - https://www.codewars.com/kata/577bd026df78c19bca0002c0/ 
-74. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
-75. Rock! Scissors! Paper! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/
-76. Find the first element of an array that is not consecutive - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
-77. Create a function to check Fibonacci number
-78. Create a function to check Fibonacci number(2) - https://www.codewars.com/kata/5541f58a944b85ce6d00006a
-79. Animals feast - https://www.codewars.com/kata/5aa736a455f906981800360d
-80. Encourage Alex - https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/
-81. Count football points - https://www.codewars.com/kata/5bb904724c47249b10000131/
-82. Earn desired sum - https://www.codewars.com/kata/563f037412e5ada593000114/
-83. HumanYears,catYears,dogYears - https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/
-84. Remove lowercase vowels - https://www.codewars.com/kata/5547929140907378f9000039/
-85. Convert digit to the word - https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/
-86. Fill the array with limit numbers - https://www.codewars.com/kata/58ca658cc0d6401f2700045f/
-87. Check the CAPSCASE of the string - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/
-88. Find unique element - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
-89. Find min and max of the list - https://www.codewars.com/kata/577a98a6ae28071780000989
-90. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
-91. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
-92. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
-93. Calculator - https://www.codewars.com/kata/583f158ea20cfcbeb400000a/
-94. Function that always returns 5 - https://www.codewars.com/kata/59441520102eaa25260000bf/
-95. Function that retunrs indexes of all the capitals - https://www.codewars.com/kata/539ee3b6757843632d00026b/
-96. Calculate the final grade - https://www.codewars.com/kata/5ad0d8356165e63c140014d4
-97. Multiply number - https://www.codewars.com/kata/55a5bfaa756cfede78000026/
-98. Remove every second item - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
-99. Multiply each char in string - https://www.codewars.com/kata/56b1f01c247c01db92000076
+001. Make negative (-Math.abs)
+002. Check even/odd (%2)
+003. Reversed array from number
+004. Find the smallest integer
+005. Triangle row sum
+006. Sum in binary
+007. Binary array to decimal number
+008. Convert a name into initials 
+009. Multiplying the values of array together
+010. Filter number array from extra types 
+011. Sum of all the integers between two numbers
+012. Calculate body mass index
+013. Translates a given DNA string into RNA
+014. Sum of all of the positives
+015. Function that does four basic mathematical operations
+016. Check the sum of array elements is odd or even
+017. Array of integers from n to 1
+018. String ends with other substring?
+019. String without vowels (RegEx, replace)
+020. Regex match
+021. Return the months quarter of year
+022. Square every digit of a number and concatenate them
+023. Summation of every number from 1 to num
+024. String repeated n times
+025. 1 sheep...2 sheep...3 sheep...
+026. Compare mark with class average
+027. Check printer error
+028. Verify boss or guest
+029. Traffic lights control
+030. Create the array with numbers from x till n, multiplied by 1 element
+031. Sort string by number in the word
+032. Remove the smallest value in deep copied array
+033. Check if the string has the same amount of 'x' 'o'"
+034. Check if the triangle can be built
+035. Return middle character of the word
+036. Do they love each other?
+037. Is employee avaliable?
+038. Hero and the dragons
+039. Array square sum function
+040. Classmates paperworks
+041. Number to string
+042. Name first letter
+043. The lowest and highest from the string
+044. Sum of the floats
+045. Sorted digits of number to descending order 
+046. Square number 
+047. String to num
+048. Bool to YES or NO
+049. Count of vowels
+050. Count the Messi goals in leagues
+051. Return the index of needle
+052. The cockroach speed
+053. Perfect square (~~ ===)
+054. Found the array average
+055. Open or senior
+056. Validate PIN
+057. Remove all exclamation marks
+058. Count the times of occurrences
+059. Found the average of the three scores
+060. Filter array from strings - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
+061. Count the sheeps - https://www.codewars.com/kata/54edbc7200b811e956000556/
+062. Boolean to string - https://www.codewars.com/kata/551b4501ac0447318f0009cd/
+063. Filter friends - https://www.codewars.com/kata/55b42574ff091733d900002f/
+064. Sum of the number strings to string - https://www.codewars.com/kata/5966e33c4e686b508700002d
+065. All the divisors of the number - https://www.codewars.com/kata/542c0f198e077084c0000c2e/
+066. Count milliseconds - https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/
+067*. Count sum of negatives and count of positives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044 
+068. Calculate when father would be twice older his son - https://www.codewars.com/kata/5b853229cfde412a470000d0/
+069. Reverse every word of the string - https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/
+070!. Check if the string is palindrom
+071. Count the passengers in the bus - https://www.codewars.com/kata/5648b12ce68d9daa6b000099/
+072. Remove first and last char in the str - https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/
+073. Correct letters in str - https://www.codewars.com/kata/577bd026df78c19bca0002c0/ 
+074. Clear the domain name(RegEx) - https://www.codewars.com/kata/514a024011ea4fb54200004b
+075. Rock! Scissors! Paper! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f/
+076. Find the first element of an array that is not consecutive - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
+077. Create a function to check Fibonacci number
+078. Create a function to check Fibonacci number(2) - https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+079. Animals feast - https://www.codewars.com/kata/5aa736a455f906981800360d
+080. Encourage Alex - https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/
+081. Count football points - https://www.codewars.com/kata/5bb904724c47249b10000131/
+082. Earn desired sum - https://www.codewars.com/kata/563f037412e5ada593000114/
+083. HumanYears,catYears,dogYears - https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/
+084. Remove lowercase vowels - https://www.codewars.com/kata/5547929140907378f9000039/
+085. Convert digit to the word - https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/
+086. Fill the array with limit numbers - https://www.codewars.com/kata/58ca658cc0d6401f2700045f/
+087. Check the CAPSCASE of the string - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/
+088. Find unique element - https://www.codewars.com/kata/585d7d5adb20cf33cb000235/
+089. Find min and max of the list - https://www.codewars.com/kata/577a98a6ae28071780000989
+090. Find the winner - https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/
+091. Replace digits - https://www.codewars.com/kata/57eae65a4321032ce000002d/
+092. Year to century - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+093. Calculator - https://www.codewars.com/kata/583f158ea20cfcbeb400000a/
+094. Function that always returns 5 - https://www.codewars.com/kata/59441520102eaa25260000bf/
+095. Function that retunrs indexes of all the capitals - https://www.codewars.com/kata/539ee3b6757843632d00026b/
+096. Calculate the final grade - https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+097. Multiply number - https://www.codewars.com/kata/55a5bfaa756cfede78000026/
+098. Remove every second item - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
+099. Multiply each char in string - https://www.codewars.com/kata/56b1f01c247c01db92000076
 100. Multiplication table for number - https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/
 101. Fill the array from a to b - https://www.codewars.com/kata/55ecd718f46fba02e5000029/ 
 102. Modify word into array - https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/ 
@@ -142,31 +142,31 @@ fundamental
 141. Group the people weight - https://www.codewars.com/kata/57eaeb9578748ff92a000009/
 142. Remove spaces - https://www.codewars.com/kata/57eae20f5500ad98e50002c5/
 143. Return the correct string -  https://www.codewars.com/kata/571f1eb77e8954a812000837/
+144. List of all the powers of 2 - https://www.codewars.com/kata/57a083a57cb1f31db7000028/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app143.js):Return the correct string"
+git commit -m "update(fundamentals:added app144.js):List of all the powers of 2"
 //===============================//
 
 rank-up
-1. Remove all values from list a, which are present in list b keeping their order.
-2. Pangram
-3. Split the string into pairs of two characters
-4. Replace every letter in the string with its position in the alphabet
-5. Translate Morse code to string
-6. Break up camel casing
-7. Instagram likes functionality
-8. Found missed letter in alphabet order
-9. Caesar cipher
-10. Found two elements in array, which sum is equal to target value
-11. Found the element in array, that appears an odd number of times 
-12. Count characters in a string to an object"
-13. Check if the number is equal to its digits sum in pow - https://www.codewars.com/kata/5626b561280a42ecc50000d1/
-14. Find the word with the highest score - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/
-15. ASCII diamond art - https://www.codewars.com/kata/5503013e34137eeeaa001648/
-16. Remove the items that repeat N times - https://www.codewars.com/kata/554ca54ffa7d91b236000023 (not ready)
-17. Upper or LowerCase - https://www.codewars.com/kata/5b180e9fedaa564a7000009a/
-
+001. Remove all values from list a, which are present in list b keeping their order.
+002. Pangram
+003. Split the string into pairs of two characters
+004. Replace every letter in the string with its position in the alphabet
+005. Translate Morse code to string
+006. Break up camel casing
+007. Instagram likes functionality
+008. Found missed letter in alphabet order
+009. Caesar cipher
+010. Found two elements in array, which sum is equal to target value
+011. Found the element in array, that appears an odd number of times 
+012. Count characters in a string to an object"
+013. Check if the number is equal to its digits sum in pow - https://www.codewars.com/kata/5626b561280a42ecc50000d1/
+014. Find the word with the highest score - https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/
+015. ASCII diamond art - https://www.codewars.com/kata/5503013e34137eeeaa001648/
+016. Remove the items that repeat N times - https://www.codewars.com/kata/554ca54ffa7d91b236000023 (not ready)
+017. Upper or LowerCase - https://www.codewars.com/kata/5b180e9fedaa564a7000009a/
 
 
 //===============================//
