@@ -143,6 +143,8 @@ fundamental
 142. Remove spaces - https://www.codewars.com/kata/57eae20f5500ad98e50002c5/
 143. Return the correct string -  https://www.codewars.com/kata/571f1eb77e8954a812000837/
 144. List of all the powers of 2 - https://www.codewars.com/kata/57a083a57cb1f31db7000028/
+145*. Find the sum of all multiples of n below m - https://www.codewars.com/kata/57241e0f440cd279b5000829/
+
 
 //===============================//
 Commit example: 
