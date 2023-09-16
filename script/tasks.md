@@ -148,7 +148,7 @@ fundamental
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app144.js):List of all the powers of 2"
+git commit -m "update(fundamentals:added app145.js):Find the sum of all multiples of n below m"
 //===============================//
 
 rank-up
