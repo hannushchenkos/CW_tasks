@@ -144,11 +144,12 @@ fundamental
 143. Return the correct string -  https://www.codewars.com/kata/571f1eb77e8954a812000837/
 144. List of all the powers of 2 - https://www.codewars.com/kata/57a083a57cb1f31db7000028/
 145*. Find the sum of all multiples of n below m - https://www.codewars.com/kata/57241e0f440cd279b5000829/
+146. Check the cube or not - https://www.codewars.com/kata/58d248c7012397a81800005c/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app145.js):Find the sum of all multiples of n below m"
+git commit -m "update(fundamentals:added app146.js):Check the cube or not"
 //===============================//
 
 rank-up
