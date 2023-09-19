@@ -146,11 +146,12 @@ fundamental
 145*. Find the sum of all multiples of n below m - https://www.codewars.com/kata/57241e0f440cd279b5000829/
 146. Check the cube or not - https://www.codewars.com/kata/58d248c7012397a81800005c/
 147. Predict the age - https://www.codewars.com/kata/5aff237c578a14752d0035ae/
+148. Remove all after the SYMBOL - https://www.codewars.com/kata/51f2b4448cadf20ed0000386/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app147.js):Predict the age"
+git commit -m "update(fundamentals:added app148.js):Remove all after the SYMBOL"
 //===============================//
 
 rank-up
