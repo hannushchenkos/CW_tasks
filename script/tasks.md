@@ -147,11 +147,12 @@ fundamental
 146. Check the cube or not - https://www.codewars.com/kata/58d248c7012397a81800005c/
 147. Predict the age - https://www.codewars.com/kata/5aff237c578a14752d0035ae/
 148. Remove all after the SYMBOL - https://www.codewars.com/kata/51f2b4448cadf20ed0000386/
+149. Floors - https://www.codewars.com/kata/574b3b1599d8f897470018f6/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app148.js):Remove all after the SYMBOL"
+git commit -m "update(fundamentals:added app149.js):Floors"
 //===============================//
 
 rank-up
