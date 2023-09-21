@@ -148,11 +148,11 @@ fundamental
 147. Predict the age - https://www.codewars.com/kata/5aff237c578a14752d0035ae/
 148. Remove all after the SYMBOL - https://www.codewars.com/kata/51f2b4448cadf20ed0000386/
 149. Floors - https://www.codewars.com/kata/574b3b1599d8f897470018f6/
-
+150. Position of the letter in alphabet - https://www.codewars.com/kata/5808e2006b65bff35500008f/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app149.js):Floors"
+git commit -m "update(fundamentals:added app150.js):Position of the letter in alphabet"
 //===============================//
 
 rank-up
