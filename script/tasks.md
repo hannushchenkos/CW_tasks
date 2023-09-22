@@ -149,10 +149,11 @@ fundamental
 148. Remove all after the SYMBOL - https://www.codewars.com/kata/51f2b4448cadf20ed0000386/
 149. Floors - https://www.codewars.com/kata/574b3b1599d8f897470018f6/
 150. Position of the letter in alphabet - https://www.codewars.com/kata/5808e2006b65bff35500008f/
+151. Ascending, descending, no - https://www.codewars.com/kata/580a4734d6df748060000045/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app150.js):Position of the letter in alphabet"
+git commit -m "update(fundamentals:added app151.js):Ascending, descending, no"
 //===============================//
 
 rank-up
