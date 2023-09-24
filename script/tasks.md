@@ -151,10 +151,11 @@ fundamental
 150. Position of the letter in alphabet - https://www.codewars.com/kata/5808e2006b65bff35500008f/
 151. Ascending, descending, no - https://www.codewars.com/kata/580a4734d6df748060000045/
 152. Duplicate Encoder - https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/
+153. Count the price - https://www.codewars.com/kata/57a77726bb9944d000000b06/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app152.js):Duplicate Encoder"
+git commit -m "update(fundamentals:added app153.js):Count the price"
 //===============================//
 
 rank-up
