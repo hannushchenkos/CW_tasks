@@ -152,10 +152,11 @@ fundamental
 151. Ascending, descending, no - https://www.codewars.com/kata/580a4734d6df748060000045/
 152. Duplicate Encoder - https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/
 153. Count the price - https://www.codewars.com/kata/57a77726bb9944d000000b06/
+154. Calculate the word value - https://www.codewars.com/kata/59706036f6e5d1e22d000016
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app153.js):Count the price"
+git commit -m "update(fundamentals:added app154.js):Calculate the word value"
 //===============================//
 
 rank-up
