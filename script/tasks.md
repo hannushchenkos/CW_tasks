@@ -153,10 +153,11 @@ fundamental
 152. Duplicate Encoder - https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/
 153. Count the price - https://www.codewars.com/kata/57a77726bb9944d000000b06/
 154. Calculate the word value - https://www.codewars.com/kata/59706036f6e5d1e22d000016
+155. Remove the duplicates between two strs - https://www.codewars.com/kata/5656b6906de340bd1b0000ac/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app154.js):Calculate the word value"
+git commit -m "update(fundamentals:added app155.js):Remove the duplicates between two strs"
 //===============================//
 
 rank-up
