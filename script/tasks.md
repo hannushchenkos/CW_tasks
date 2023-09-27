@@ -154,10 +154,11 @@ fundamental
 153. Count the price - https://www.codewars.com/kata/57a77726bb9944d000000b06/
 154. Calculate the word value - https://www.codewars.com/kata/59706036f6e5d1e22d000016
 155. Remove the duplicates between two strs - https://www.codewars.com/kata/5656b6906de340bd1b0000ac/
+156. Calculate the age - https://www.codewars.com/kata/5761a717780f8950ce001473/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app155.js):Remove the duplicates between two strs"
+git commit -m "update(fundamentals:added app156.js):Calculate the age"
 //===============================//
 
 rank-up
