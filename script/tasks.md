@@ -156,10 +156,11 @@ fundamental
 155. Remove the duplicates between two strs - https://www.codewars.com/kata/5656b6906de340bd1b0000ac/
 156. Calculate the age - https://www.codewars.com/kata/5761a717780f8950ce001473/
 157. Filter to limit - https://www.codewars.com/kata/57cc981a58da9e302a000214
+158. The Combat health - https://www.codewars.com/kata/586c1cf4b98de0399300001d
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app157.js):Filter to limit"
+git commit -m "update(fundamentals:added app158.js):The Combat health"
 //===============================//
 
 rank-up
