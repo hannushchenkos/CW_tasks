@@ -157,10 +157,11 @@ fundamental
 156. Calculate the age - https://www.codewars.com/kata/5761a717780f8950ce001473/
 157. Filter to limit - https://www.codewars.com/kata/57cc981a58da9e302a000214
 158. The Combat health - https://www.codewars.com/kata/586c1cf4b98de0399300001d
+159. Return the index of the middle value element - https://www.codewars.com/kata/545a4c5a61aa4c6916000755/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app158.js):The Combat health"
+git commit -m "update(fundamentals:added app159.js):Return the index of the middle value element"
 //===============================//
 
 rank-up
