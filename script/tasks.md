@@ -158,10 +158,11 @@ fundamental
 157. Filter to limit - https://www.codewars.com/kata/57cc981a58da9e302a000214
 158. The Combat health - https://www.codewars.com/kata/586c1cf4b98de0399300001d
 159. Return the index of the middle value element - https://www.codewars.com/kata/545a4c5a61aa4c6916000755/
+160. Find the average - https://www.codewars.com/kata/55d277882e139d0b6000005d/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app159.js):Return the index of the middle value element"
+git commit -m "update(fundamentals:added app160.js):Find the average"
 //===============================//
 
 rank-up
