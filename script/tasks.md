@@ -161,10 +161,11 @@ fundamental
 160. Find the average - https://www.codewars.com/kata/55d277882e139d0b6000005d/
 161. Round to 2 digs after coma - https://www.codewars.com/kata/5641a03210e973055a00000d
 162. A sequence of character sequences - https://www.codewars.com/kata/570597e258b58f6edc00230d/
+163. Multipliers of the own index - https://www.codewars.com/kata/5a34b80155519e1a00000009/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app162.js):A sequence of character sequences"
+git commit -m "update(fundamentals:added app163.js):Multipliers of the own index"
 //===============================//
 
 rank-up
