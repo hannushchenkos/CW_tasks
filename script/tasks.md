@@ -162,10 +162,11 @@ fundamental
 161. Round to 2 digs after coma - https://www.codewars.com/kata/5641a03210e973055a00000d
 162. A sequence of character sequences - https://www.codewars.com/kata/570597e258b58f6edc00230d/
 163. Multipliers of the own index - https://www.codewars.com/kata/5a34b80155519e1a00000009/
+164. Sum of the mins of 2 step array - https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app163.js):Multipliers of the own index"
+git commit -m "update(fundamentals:added app164.js):Sum of the mins of 2 step array"
 //===============================//
 
 rank-up
