@@ -163,10 +163,12 @@ fundamental
 162. A sequence of character sequences - https://www.codewars.com/kata/570597e258b58f6edc00230d/
 163. Multipliers of the own index - https://www.codewars.com/kata/5a34b80155519e1a00000009/
 164. Sum of the mins of 2 step array - https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
+165. Username validation - https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app164.js):Sum of the mins of 2 step array"
+git commit -m "update(fundamentals:added app165.js):Username validation"
 //===============================//
 
 rank-up
