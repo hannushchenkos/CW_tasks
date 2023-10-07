@@ -164,11 +164,12 @@ fundamental
 163. Multipliers of the own index - https://www.codewars.com/kata/5a34b80155519e1a00000009/
 164. Sum of the mins of 2 step array - https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 165. Username validation - https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/
+166. Remainder of dividing larger value by smaller - https://www.codewars.com/kata/524f5125ad9c12894e00003f/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app165.js):Username validation"
+git commit -m "update(fundamentals:added app166.js):Remainder of dividing larger value by smaller"
 //===============================//
 
 rank-up
