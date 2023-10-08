@@ -165,11 +165,13 @@ fundamental
 164. Sum of the mins of 2 step array - https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 165. Username validation - https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/
 166. Remainder of dividing larger value by smaller - https://www.codewars.com/kata/524f5125ad9c12894e00003f/
+167. _if function - https://www.codewars.com/kata/54147087d5c2ebe4f1000805/
+
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app166.js):Remainder of dividing larger value by smaller"
+git commit -m "update(fundamentals:added app167.js):_if function"
 //===============================//
 
 rank-up
