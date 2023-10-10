@@ -166,13 +166,14 @@ fundamental
 165. Username validation - https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/
 166. Remainder of dividing larger value by smaller - https://www.codewars.com/kata/524f5125ad9c12894e00003f/
 167. _if function - https://www.codewars.com/kata/54147087d5c2ebe4f1000805/
-168. Ordered by length string array - https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/  
+168. Ordered by length string array - https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/ 
+169. Message to the person! - 
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app168.js):Ordered by length string array"
+git commit -m "update(fundamentals:added app169.js):Message to the person!"
 //===============================//
 
 rank-up
