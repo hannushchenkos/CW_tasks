@@ -167,13 +167,13 @@ fundamental
 166. Remainder of dividing larger value by smaller - https://www.codewars.com/kata/524f5125ad9c12894e00003f/
 167. _if function - https://www.codewars.com/kata/54147087d5c2ebe4f1000805/
 168. Ordered by length string array - https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/ 
-169. Message to the person! - 
-
+169. Message to the person! - https://www.codewars.com/kata/5302d846be2a9189af0001e4/
+170. Updated salutation - https://www.codewars.com/kata/535474308bb336c9980006f2/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app169.js):Message to the person!"
+git commit -m "update(fundamentals:added app170.js):Updated salutation"
 //===============================//
 
 rank-up
