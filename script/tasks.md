@@ -171,11 +171,11 @@ fundamental
 170. Updated salutation - https://www.codewars.com/kata/535474308bb336c9980006f2/
 171. JadenCase - https://www.codewars.com/kata/5390bac347d09b7da40006f6/
 172. Array includes item - https://www.codewars.com/kata/545991b4cbae2a5fda000158/ 
-
+173. Suzuki the monk - https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app172.js):Array includes item"
+git commit -m "update(fundamentals:added app173.js):Suzuki the monk"
 //===============================//
 
 rank-up
