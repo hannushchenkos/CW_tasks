@@ -174,10 +174,11 @@ fundamental
 173. Suzuki the monk - https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e
 174. Encrypt the str - https://www.codewars.com/kata/5848565e273af816fb000449
 175. Count the number of lowercase letters - https://www.codewars.com/kata/56a946cd7bd95ccab2000055/
+176. Hello, Name! - https://www.codewars.com/kata/57e3f79c9cb119374600046b/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app175.js):Count the number of lowercase letters"
+git commit -m "update(fundamentals:added app176.js):Hello, Name!"
 //===============================//
 
 rank-up
