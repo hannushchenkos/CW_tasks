@@ -175,10 +175,11 @@ fundamental
 174. Encrypt the str - https://www.codewars.com/kata/5848565e273af816fb000449
 175. Count the number of lowercase letters - https://www.codewars.com/kata/56a946cd7bd95ccab2000055/
 176. Hello, Name! - https://www.codewars.com/kata/57e3f79c9cb119374600046b/
+177. Car dead or good - https://www.codewars.com/kata/57ed30dde7728215300005fa/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app176.js):Hello, Name!"
+git commit -m "update(fundamentals:added app177.js):Car dead or good"
 //===============================//
 
 rank-up
