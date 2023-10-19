@@ -176,10 +176,11 @@ fundamental
 175. Count the number of lowercase letters - https://www.codewars.com/kata/56a946cd7bd95ccab2000055/
 176. Hello, Name! - https://www.codewars.com/kata/57e3f79c9cb119374600046b/
 177. Car dead or good - https://www.codewars.com/kata/57ed30dde7728215300005fa/
+178. Role game - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app177.js):Car dead or good"
+git commit -m "update(fundamentals:added app178.js):Role game"
 //===============================//
 
 rank-up
