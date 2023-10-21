@@ -178,11 +178,12 @@ fundamental
 177. Car dead or good - https://www.codewars.com/kata/57ed30dde7728215300005fa/
 178. Role game - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/
 179. Water for plants - https://www.codewars.com/kata/57158fb92ad763bb180004e7/
+180. HowManydays in a month - https://www.codewars.com/kata/572059afc2f4612825000d8a/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app179.js):Water for plants"
+git commit -m "update(fundamentals:added app180.js):HowManydays in a month"
 //===============================//
 
 rank-up
