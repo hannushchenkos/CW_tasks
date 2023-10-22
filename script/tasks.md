@@ -179,11 +179,12 @@ fundamental
 178. Role game - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/
 179. Water for plants - https://www.codewars.com/kata/57158fb92ad763bb180004e7/
 180. HowManydays in a month - https://www.codewars.com/kata/572059afc2f4612825000d8a/
+181. Vowel indexes - https://www.codewars.com/kata/5680781b6b7c2be860000036
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app180.js):HowManydays in a month"
+git commit -m "update(fundamentals:added app181.js):Vowel indexes"
 //===============================//
 
 rank-up
