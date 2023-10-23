@@ -180,11 +180,12 @@ fundamental
 179. Water for plants - https://www.codewars.com/kata/57158fb92ad763bb180004e7/
 180. HowManydays in a month - https://www.codewars.com/kata/572059afc2f4612825000d8a/
 181. Vowel indexes - https://www.codewars.com/kata/5680781b6b7c2be860000036
+182. Petal for a flower - https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app181.js):Vowel indexes"
+git commit -m "update(fundamentals:added app182.js):Petal for a flower"
 //===============================//
 
 rank-up
