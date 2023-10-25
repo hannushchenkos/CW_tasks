@@ -182,11 +182,11 @@ fundamental
 181. Vowel indexes - https://www.codewars.com/kata/5680781b6b7c2be860000036
 182. Petal for a flower - https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
 183. CSV representation - https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/
-
+184. Remove all the exclamation marks - https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app183.js):CSV representation"
+git commit -m "update(fundamentals:added app184.js):Remove all the exclamation marks"
 //===============================//
 
 rank-up
