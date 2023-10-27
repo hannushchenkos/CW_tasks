@@ -185,10 +185,11 @@ fundamental
 184. Remove all the exclamation marks - https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/
 185. Return last n even numbers - https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/
 186. Check if two given characters are the same case - https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/
+187. Create validation regEx for forms - noLink
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app186.js):Check if two given characters are the same case"
+git commit -m "update(fundamentals:added app187.js):Create validation regEx for forms"
 //===============================//
 
 rank-up
