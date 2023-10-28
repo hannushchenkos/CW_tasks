@@ -186,10 +186,11 @@ fundamental
 185. Return last n even numbers - https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c/
 186. Check if two given characters are the same case - https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/
 187. Create validation regEx for forms - noLink
+188. Replace all vowel to exclamation mark - https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app187.js):Create validation regEx for forms"
+git commit -m "update(fundamentals:added app188.js):Replace all vowel to exclamation mark"
 //===============================//
 
 rank-up
