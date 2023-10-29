@@ -187,10 +187,11 @@ fundamental
 186. Check if two given characters are the same case - https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/
 187. Create validation regEx for forms - noLink
 188. Replace all vowel to exclamation mark - https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/
+189. Number of digits in the integer - https://www.codewars.com/kata/58fa273ca6d84c158e000052
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app188.js):Replace all vowel to exclamation mark"
+git commit -m "update(fundamentals:added app189.js):Number of digits in the integer"
 //===============================//
 
 rank-up
