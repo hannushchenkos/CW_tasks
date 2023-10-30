@@ -188,10 +188,13 @@ fundamental
 187. Create validation regEx for forms - noLink
 188. Replace all vowel to exclamation mark - https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/
 189. Number of digits in the integer - https://www.codewars.com/kata/58fa273ca6d84c158e000052
+190. Factorial - https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
+
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app189.js):Number of digits in the integer"
+git commit -m "update(fundamentals:added app190.js):Factorial"
 //===============================//
 
 rank-up
