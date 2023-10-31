@@ -189,12 +189,12 @@ fundamental
 188. Replace all vowel to exclamation mark - https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/
 189. Number of digits in the integer - https://www.codewars.com/kata/58fa273ca6d84c158e000052
 190. Factorial - https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
-
+191. Funny properties - https://www.codewars.com/kata/5552101f47fc5178b1000050/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app190.js):Factorial"
+git commit -m "update(fundamentals:added app191.js):Funny properties"
 //===============================//
 
 rank-up
