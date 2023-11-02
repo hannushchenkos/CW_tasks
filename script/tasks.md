@@ -191,11 +191,12 @@ fundamental
 190. Factorial - https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
 191. Funny properties - https://www.codewars.com/kata/5552101f47fc5178b1000050/
 192. Sum the differences - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/
+193. Class Ball - https://www.codewars.com/kata/53f0f358b9cb376eca001079
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app192.js):Sum the differences"
+git commit -m "update(fundamentals:added app193.js):Class Ball"
 //===============================//
 
 rank-up
