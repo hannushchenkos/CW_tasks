@@ -192,11 +192,12 @@ fundamental
 191. Funny properties - https://www.codewars.com/kata/5552101f47fc5178b1000050/
 192. Sum the differences - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/
 193. Class Ball - https://www.codewars.com/kata/53f0f358b9cb376eca001079
+194. An isogram - https://www.codewars.com/kata/54ba84be607a92aa900000f1/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app193.js):Class Ball"
+git commit -m "update(fundamentals:added app194.js):An isogram"
 //===============================//
 
 rank-up
