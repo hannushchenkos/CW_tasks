@@ -193,11 +193,12 @@ fundamental
 192. Sum the differences - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/
 193. Class Ball - https://www.codewars.com/kata/53f0f358b9cb376eca001079
 194. An isogram - https://www.codewars.com/kata/54ba84be607a92aa900000f1/
+195. Odd array - https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app194.js):An isogram"
+git commit -m "update(fundamentals:added app195.js):Odd array"
 //===============================//
 
 rank-up
