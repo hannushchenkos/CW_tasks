@@ -194,11 +194,12 @@ fundamental
 193. Class Ball - https://www.codewars.com/kata/53f0f358b9cb376eca001079
 194. An isogram - https://www.codewars.com/kata/54ba84be607a92aa900000f1/
 195. Odd array - https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/
+196. Move all of the zeros to the end - https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app195.js):Odd array"
+git commit -m "update(fundamentals:added app196.js):Move all of the zeros to the end"
 //===============================//
 
 rank-up
