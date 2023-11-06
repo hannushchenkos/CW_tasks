@@ -195,11 +195,12 @@ fundamental
 194. An isogram - https://www.codewars.com/kata/54ba84be607a92aa900000f1/
 195. Odd array - https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/
 196. Move all of the zeros to the end - https://www.codewars.com/kata/52597aa56021e91c93000cb0/
+197. Domain name - https://www.codewars.com/kata/514a024011ea4fb54200004b/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app196.js):Move all of the zeros to the end"
+git commit -m "update(fundamentals:added app197.js):Domain name"
 //===============================//
 
 rank-up
