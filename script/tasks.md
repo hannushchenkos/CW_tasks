@@ -196,11 +196,12 @@ fundamental
 195. Odd array - https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/
 196. Move all of the zeros to the end - https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 197. Domain name - https://www.codewars.com/kata/514a024011ea4fb54200004b/
+198. Replace letter with its position - https://www.codewars.com/kata/546f922b54af40e1e90001da
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app197.js):Domain name"
+git commit -m "update(fundamentals:added app198.js):Replace letter with its position"
 //===============================//
 
 rank-up
