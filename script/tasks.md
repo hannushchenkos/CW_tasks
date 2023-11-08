@@ -197,11 +197,12 @@ fundamental
 196. Move all of the zeros to the end - https://www.codewars.com/kata/52597aa56021e91c93000cb0/
 197. Domain name - https://www.codewars.com/kata/514a024011ea4fb54200004b/
 198. Replace letter with its position - https://www.codewars.com/kata/546f922b54af40e1e90001da
+199. Integer as a string in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app198.js):Replace letter with its position"
+git commit -m "update(fundamentals:added app199.js):Integer as a string in Expanded Form"
 //===============================//
 
 rank-up
