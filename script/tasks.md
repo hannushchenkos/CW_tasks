@@ -198,11 +198,11 @@ fundamental
 197. Domain name - https://www.codewars.com/kata/514a024011ea4fb54200004b/
 198. Replace letter with its position - https://www.codewars.com/kata/546f922b54af40e1e90001da
 199. Integer as a string in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245/
-
+200. Century of the input year - https://www.codewars.com/kata/52fb87703c1351ebd200081f
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app199.js):Integer as a string in Expanded Form"
+git commit -m "update(fundamentals:added app200.js):Century of the input year"
 //===============================//
 
 rank-up
