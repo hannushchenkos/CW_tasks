@@ -199,10 +199,11 @@ fundamental
 198. Replace letter with its position - https://www.codewars.com/kata/546f922b54af40e1e90001da
 199. Integer as a string in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245/
 200. Century of the input year - https://www.codewars.com/kata/52fb87703c1351ebd200081f
+201. Sum nearby ones - own task
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app200.js):Century of the input year"
+git commit -m "update(fundamentals:added app201.js):Sum nearby ones"
 //===============================//
 
 rank-up
