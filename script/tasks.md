@@ -200,10 +200,12 @@ fundamental
 199. Integer as a string in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245/
 200. Century of the input year - https://www.codewars.com/kata/52fb87703c1351ebd200081f
 201. Sum nearby ones - own task
+202. String array duplicates - String array duplicates
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app201.js):Sum nearby ones"
+git commit -m "update(fundamentals:added app202.js):String array duplicatess"
 //===============================//
 
 rank-up
