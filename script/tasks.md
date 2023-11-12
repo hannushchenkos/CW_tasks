@@ -200,12 +200,13 @@ fundamental
 199. Integer as a string in Expanded Form - https://www.codewars.com/kata/5842df8ccbd22792a4000245/
 200. Century of the input year - https://www.codewars.com/kata/52fb87703c1351ebd200081f
 201. Sum nearby ones - own task
-202. String array duplicates - String array duplicates
+202. String array duplicates - https://www.codewars.com/kata/59f08f89a5e129c543000069
+203. JavaScript Array Filter - https://www.codewars.com/kata/514a6336889283a3d2000001
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app202.js):String array duplicatess"
+git commit -m "update(fundamentals:added app203.js):JavaScript Array Filter"
 //===============================//
 
 rank-up
