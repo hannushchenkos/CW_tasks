@@ -203,11 +203,12 @@ fundamental
 202. String array duplicates - https://www.codewars.com/kata/59f08f89a5e129c543000069
 203. JavaScript Array Filter - https://www.codewars.com/kata/514a6336889283a3d2000001
 204. Multiplication table - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/
+205. Round up to the next multiple of 5 - https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app204.js):Multiplication table"
+git commit -m "update(fundamentals:added app205.js):Round up to the next multiple of 5"
 //===============================//
 
 rank-up
