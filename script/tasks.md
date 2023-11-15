@@ -204,11 +204,12 @@ fundamental
 203. JavaScript Array Filter - https://www.codewars.com/kata/514a6336889283a3d2000001
 204. Multiplication table - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/
 205. Round up to the next multiple of 5 - https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript
+206. The Wide-Mouthed frog! - https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app205.js):Round up to the next multiple of 5"
+git commit -m "update(fundamentals:added app206.js):The Wide-Mouthed frog!"
 //===============================//
 
 rank-up
