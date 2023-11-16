@@ -205,11 +205,12 @@ fundamental
 204. Multiplication table - https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/
 205. Round up to the next multiple of 5 - https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript
 206. The Wide-Mouthed frog! - https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/
+207. Determine genes XX and XY chromosomes - https://www.codewars.com/kata/56530b444e831334c0000020
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app206.js):The Wide-Mouthed frog!"
+git commit -m "update(fundamentals:added app207.js):Determine genes XX and XY chromosomes"
 //===============================//
 
 rank-up
