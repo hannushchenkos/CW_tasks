@@ -206,11 +206,12 @@ fundamental
 205. Round up to the next multiple of 5 - https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript
 206. The Wide-Mouthed frog! - https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/
 207. Determine genes XX and XY chromosomes - https://www.codewars.com/kata/56530b444e831334c0000020
+208. Deodorant Evaporator - https://www.codewars.com/kata/5506b230a11c0aeab3000c1f
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app207.js):Determine genes XX and XY chromosomes"
+git commit -m "update(fundamentals:added app208.js):Deodorant Evaporato"
 //===============================//
 
 rank-up
