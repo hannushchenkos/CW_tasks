@@ -210,11 +210,12 @@ fundamental
 209. Printing Array elements with Comma delimiters - https://www.codewars.com/kata/56e2f59fb2ed128081001328/
 210. Flatten and sort an array - https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/
 211. Testing 1-2-3 - https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9
+212. Build Tower - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app211.js):Testing 1-2-3"
+git commit -m "update(fundamentals:added app212.js):Build Tower"
 //===============================//
 
 rank-up
