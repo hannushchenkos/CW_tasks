@@ -211,11 +211,12 @@ fundamental
 210. Flatten and sort an array - https://www.codewars.com/kata/57ee99a16c8df7b02d00045f/
 211. Testing 1-2-3 - https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9
 212. Build Tower - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
+213. Sum without highest and lowest number - https://www.codewars.com/kata/576b93db1129fcf2200001e6
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app212.js):Build Tower"
+git commit -m "update(fundamentals:added app213.js):Sum without highest and lowest number"
 //===============================//
 
 rank-up
