@@ -213,11 +213,12 @@ fundamental
 212. Build Tower - https://www.codewars.com/kata/576757b1df89ecf5bd00073b
 213. Sum without highest and lowest number - https://www.codewars.com/kata/576b93db1129fcf2200001e6
 214. Holiday VIII - Duty Free - https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+215. Do you speak English? - https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app214.js):Holiday VIII - Duty Free"
+git commit -m "update(fundamentals:added app215.js):Do you speak English?"
 //===============================//
 
 rank-up
