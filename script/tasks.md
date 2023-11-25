@@ -214,11 +214,12 @@ fundamental
 213. Sum without highest and lowest number - https://www.codewars.com/kata/576b93db1129fcf2200001e6
 214. Holiday VIII - Duty Free - https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
 215. Do you speak English? - https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058
+216. Largest pair sum in array - https://www.codewars.com/kata/556196a6091a7e7f58000018
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app215.js):Do you speak English?"
+git commit -m "update(fundamentals:added app216.js):Largest pair sum in array"
 //===============================//
 
 rank-up
