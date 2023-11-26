@@ -215,11 +215,13 @@ fundamental
 214. Holiday VIII - Duty Free - https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
 215. Do you speak English? - https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058
 216. Largest pair sum in array - https://www.codewars.com/kata/556196a6091a7e7f58000018
+217. Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c/
+
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app216.js):Largest pair sum in array"
+git commit -m "update(fundamentals:added app217.js):Surface Area and Volume of a Box"
 //===============================//
 
 rank-up
