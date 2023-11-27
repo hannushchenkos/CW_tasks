@@ -216,12 +216,13 @@ fundamental
 215. Do you speak English? - https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058
 216. Largest pair sum in array - https://www.codewars.com/kata/556196a6091a7e7f58000018
 217. Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c/
+218. String incrementer - https://www.codewars.com/kata/54a91a4883a7de5d7800009c
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app217.js):Surface Area and Volume of a Box"
+git commit -m "update(fundamentals:added app218.js):String incrementer"
 //===============================//
 
 rank-up
