@@ -217,12 +217,13 @@ fundamental
 216. Largest pair sum in array - https://www.codewars.com/kata/556196a6091a7e7f58000018
 217. Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c/
 218. String incrementer - https://www.codewars.com/kata/54a91a4883a7de5d7800009c
+219. Count of positives / sum of negatives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app218.js):String incrementer"
+git commit -m "update(fundamentals:added app219.js): Count of positives / sum of negatives"
 //===============================//
 
 rank-up
