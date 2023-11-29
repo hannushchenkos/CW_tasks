@@ -218,12 +218,12 @@ fundamental
 217. Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c/
 218. String incrementer - https://www.codewars.com/kata/54a91a4883a7de5d7800009c
 219. Count of positives / sum of negatives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
-
+220. Simple calculator - https://www.codewars.com/kata/5810085c533d69f4980001cf
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app219.js): Count of positives / sum of negatives"
+git commit -m "update(fundamentals:added app220.js):Simple calculator"
 //===============================//
 
 rank-up
