@@ -219,11 +219,12 @@ fundamental
 218. String incrementer - https://www.codewars.com/kata/54a91a4883a7de5d7800009c
 219. Count of positives / sum of negatives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 220. Simple calculator - https://www.codewars.com/kata/5810085c533d69f4980001cf
+221. Alphabet war - https://www.codewars.com/kata/59377c53e66267c8f6000027/
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app220.js):Simple calculator"
+git commit -m "update(fundamentals:added app221.js):Alphabet war"
 //===============================//
 
 rank-up
