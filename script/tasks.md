@@ -223,9 +223,12 @@ fundamental
 222. Merge two sorted arrays into one - https://www.codewars.com/kata/5899642f6e1b25935d000161/
 223. Sum of angles - https://www.codewars.com/kata/5a03b3f6a1c9040084001765/
 224. Contamination - https://www.codewars.com/kata/596fba44963025c878000039/
+225. Maximum Product - https://www.codewars.com/kata/5a4138acf28b82aa43000117
+
+
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app224.js):Contamination"
+git commit -m "update(fundamentals:added app225.js):Maximum Product"
 //===============================//
 
 rank-up
