@@ -224,11 +224,12 @@ fundamental
 223. Sum of angles - https://www.codewars.com/kata/5a03b3f6a1c9040084001765/
 224. Contamination - https://www.codewars.com/kata/596fba44963025c878000039/
 225. Maximum Product - https://www.codewars.com/kata/5a4138acf28b82aa43000117
+226. Highest and Lowest - https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app225.js):Maximum Product"
+git commit -m "update(fundamentals:added app226.js):Highest and Lowest"
 //===============================//
 
 rank-up
