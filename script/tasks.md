@@ -225,11 +225,11 @@ fundamental
 224. Contamination - https://www.codewars.com/kata/596fba44963025c878000039/
 225. Maximum Product - https://www.codewars.com/kata/5a4138acf28b82aa43000117
 226. Highest and Lowest - https://www.codewars.com/kata/554b4ac871d6813a03000035
-
+227. Growth of a Population - https://www.codewars.com/kata/563b662a59afc2b5120000c6
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app226.js):Highest and Lowest"
+git commit -m "update(fundamentals:added app227.js):Growth of a Population"
 //===============================//
 
 rank-up
