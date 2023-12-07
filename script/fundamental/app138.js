@@ -12,3 +12,9 @@
 function accum(s) {
 	return s.split("").map((item, index) => item[0].toUpperCase() + item.repeat(index).toLowerCase()).join("-")
 }
+
+function accum(s) {
+	return s.split('').reduce((acc,cur,index)=>[...acc, (cur.toUpperCase() + cur.toLowerCase().repeat(index))] , []).join('-')
+  }
+
+  
