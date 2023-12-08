@@ -227,10 +227,10 @@ fundamental
 226. Highest and Lowest - https://www.codewars.com/kata/554b4ac871d6813a03000035
 227. Growth of a Population - https://www.codewars.com/kata/563b662a59afc2b5120000c6
 228. Are they the same? - https://www.codewars.com/kata/550498447451fbbd7600041c/
-
+229. A Strange Trip to the Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app228.js):Are they the same?"
+git commit -m "update(fundamentals:added app229.js):A Strange Trip to the Market"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
