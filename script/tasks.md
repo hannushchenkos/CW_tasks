@@ -226,12 +226,12 @@ fundamental
 225. Maximum Product - https://www.codewars.com/kata/5a4138acf28b82aa43000117
 226. Highest and Lowest - https://www.codewars.com/kata/554b4ac871d6813a03000035
 227. Growth of a Population - https://www.codewars.com/kata/563b662a59afc2b5120000c6
-228. 
+228. Are they the same? - https://www.codewars.com/kata/550498447451fbbd7600041c/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app227.js):Growth of a Population"
-git commit -m "update(fundamentals:update app138.js):Mumbling(update)"
+git commit -m "update(fundamentals:added app228.js):Are they the same?"
+<!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
 rank-up
