@@ -229,10 +229,11 @@ fundamental
 228. Are they the same? - https://www.codewars.com/kata/550498447451fbbd7600041c/
 229. A Strange Trip to the Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056
 230. Will you make it? - https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
+231. Who ate the cookie? - https://www.codewars.com/kata/55a996e0e8520afab9000055
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app230.js):Will you make it?"
+git commit -m "update(fundamentals:added app231.js):Who ate the cookie?"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
