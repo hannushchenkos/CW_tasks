@@ -231,10 +231,11 @@ fundamental
 230. Will you make it? - https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
 231. Who ate the cookie? - https://www.codewars.com/kata/55a996e0e8520afab9000055
 232. Parts of a list - https://www.codewars.com/kata/56f3a1e899b386da78000732
+233. Anagram Detection - https://www.codewars.com/kata/529eef7a9194e0cbc1000255
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app232.js):Parts of a list"
+git commit -m "update(fundamentals:added app233.js):Anagram Detection"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
