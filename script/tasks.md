@@ -233,10 +233,13 @@ fundamental
 232. Parts of a list - https://www.codewars.com/kata/56f3a1e899b386da78000732
 233. Anagram Detection - https://www.codewars.com/kata/529eef7a9194e0cbc1000255
 234. Combine strings function - https://www.codewars.com/kata/55f73f66d160f1f1db000059
+235. Remove the time - https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e
+
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app234.js):Combine strings function"
+git commit -m "update(fundamentals:added app235.js):Remove the time"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
