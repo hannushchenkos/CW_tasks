@@ -234,12 +234,12 @@ fundamental
 233. Anagram Detection - https://www.codewars.com/kata/529eef7a9194e0cbc1000255
 234. Combine strings function - https://www.codewars.com/kata/55f73f66d160f1f1db000059
 235. Remove the time - https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e
-
+236. Find the stray number - https://www.codewars.com/kata/57f609022f4d534f05000024 
 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app235.js):Remove the time"
+git commit -m "update(fundamentals:added app236.js)Find the stray number"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
