@@ -236,10 +236,11 @@ fundamental
 235. Remove the time - https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e
 236. Find the stray number - https://www.codewars.com/kata/57f609022f4d534f05000024 
 237. Most digits - https://www.codewars.com/kata/58daa7617332e59593000006/
+238. Get ascii value of character - https://www.codewars.com/kata/55acfc59c3c23d230f00006d
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app237.js):Most digits"
+git commit -m "update(fundamentals:added app238.js):Get ascii value of character"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
