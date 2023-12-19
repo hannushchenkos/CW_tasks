@@ -237,10 +237,11 @@ fundamental
 236. Find the stray number - https://www.codewars.com/kata/57f609022f4d534f05000024 
 237. Most digits - https://www.codewars.com/kata/58daa7617332e59593000006/
 238. Get ascii value of character - https://www.codewars.com/kata/55acfc59c3c23d230f00006d
+239. Power without cheats - https://www.codewars.com/kata/562926c855ca9fdc4800005b/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app238.js):Get ascii value of character"
+git commit -m "update(fundamentals:added app239.js):Power without cheats"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
