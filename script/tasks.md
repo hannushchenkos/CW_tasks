@@ -239,10 +239,11 @@ fundamental
 238. Get ascii value of character - https://www.codewars.com/kata/55acfc59c3c23d230f00006d
 239. Power without cheats - https://www.codewars.com/kata/562926c855ca9fdc4800005b/
 240. Moves in squared strings - https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/
+241. Define a card suit - https://www.codewars.com/kata/5a360620f28b82a711000047
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app240.js):Moves in squared strings"
+git commit -m "update(fundamentals:added app241.js):Define a card suit"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
