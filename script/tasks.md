@@ -240,10 +240,11 @@ fundamental
 239. Power without cheats - https://www.codewars.com/kata/562926c855ca9fdc4800005b/
 240. Moves in squared strings - https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/
 241. Define a card suit - https://www.codewars.com/kata/5a360620f28b82a711000047
+242. Name on billboard - https://www.codewars.com/kata/570e8ec4127ad143660001fd/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app241.js):Define a card suit"
+git commit -m "update(fundamentals:added app242.js):Name on billboard"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
