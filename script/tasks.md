@@ -242,10 +242,11 @@ fundamental
 241. Define a card suit - https://www.codewars.com/kata/5a360620f28b82a711000047
 242. Name on billboard - https://www.codewars.com/kata/570e8ec4127ad143660001fd/
 243. Count the number of Duplicates - https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/
+244. Tribonacci Sequence - https://www.codewars.com/kata/556deca17c58da83c00002db/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app243.js):Count the number of Duplicates"
+git commit -m "update(fundamentals:added app244.js):Tribonacci Sequence"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
