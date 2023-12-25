@@ -243,10 +243,11 @@ fundamental
 242. Name on billboard - https://www.codewars.com/kata/570e8ec4127ad143660001fd/
 243. Count the number of Duplicates - https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/
 244. Tribonacci Sequence - https://www.codewars.com/kata/556deca17c58da83c00002db/
+245. Filter the number - https://www.codewars.com/kata/55b051fac50a3292a9000025/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app244.js):Tribonacci Sequence"
+git commit -m "update(fundamentals:added app245.js):Filter the number"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
