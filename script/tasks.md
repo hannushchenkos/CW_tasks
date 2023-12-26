@@ -244,10 +244,11 @@ fundamental
 243. Count the number of Duplicates - https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/
 244. Tribonacci Sequence - https://www.codewars.com/kata/556deca17c58da83c00002db/
 245. Filter the number - https://www.codewars.com/kata/55b051fac50a3292a9000025/
+246. Check the exam - https://www.codewars.com/kata/5a3dd29055519e23ec000074 
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app245.js):Filter the number"
+git commit -m "update(fundamentals:added app246.js):Check the exam"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
