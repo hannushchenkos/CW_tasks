@@ -246,10 +246,11 @@ fundamental
 245. Filter the number - https://www.codewars.com/kata/55b051fac50a3292a9000025/
 246. Check the exam - https://www.codewars.com/kata/5a3dd29055519e23ec000074 
 247. UEFA EURO 2016 - https://www.codewars.com/kata/57613fb1033d766171000d60/
+248. Return the day - https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app247.js):UEFA EURO 2016"
+git commit -m "update(fundamentals:added app248.js):Return the day"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
