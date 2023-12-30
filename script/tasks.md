@@ -248,13 +248,11 @@ fundamental
 247. UEFA EURO 2016 - https://www.codewars.com/kata/57613fb1033d766171000d60/
 248. Return the day - https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/
 249. Data Reverse - https://www.codewars.com/kata/569d488d61b812a0f7000015/
-<<<<<<< HEAD
-=======
+250. Validate code with simple regex - https://www.codewars.com/kata/56a25ba95df27b7743000016/
 
->>>>>>> 6f3837b552b87c44e35d32f03ed67059af4839da
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app249.js):Data Reverse"
+git commit -m "update(fundamentals:added app250.js):Validate code with simple regex"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 

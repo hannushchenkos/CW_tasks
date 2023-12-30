@@ -39,12 +39,8 @@ const dataReverse = data =>
       .slice(0, -1);
 
 const dataReverse = data =>
-  data.reduce((acc, num, idx) => [ [...(idx % 8 ? acc.shift() : []), num], ...acc ] , [])
-<<<<<<< HEAD
-      .flat();
-=======
-      .flat();
+  data.reduce((acc, num, idx) => [ [...(idx % 8 ? acc.shift() : []), num], ...acc ] , []).flat();
 
 
  
->>>>>>> 6f3837b552b87c44e35d32f03ed67059af4839da
+
