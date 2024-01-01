@@ -250,10 +250,11 @@ fundamental
 249. Data Reverse - https://www.codewars.com/kata/569d488d61b812a0f7000015/
 250. Validate code with simple regex - https://www.codewars.com/kata/56a25ba95df27b7743000016/
 251. Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059/
+252*. DuckDuckGoose - https://www.codewars.com/kata/582e0e592029ea10530009ce/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app251.js):Shark Pontoon"
+git commit -m "update(fundamentals:added app252.js):DuckDuckGoose"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
