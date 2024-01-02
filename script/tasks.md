@@ -251,10 +251,11 @@ fundamental
 250. Validate code with simple regex - https://www.codewars.com/kata/56a25ba95df27b7743000016/
 251. Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059/
 252*. DuckDuckGoose - https://www.codewars.com/kata/582e0e592029ea10530009ce/
+253. Simple beads count - https://www.codewars.com/kata/58712dfa5c538b6fc7000569/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app252.js):DuckDuckGoose"
+git commit -m "update(fundamentals:added app253.js):Simple beads count"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
