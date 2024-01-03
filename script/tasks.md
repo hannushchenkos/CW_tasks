@@ -252,10 +252,11 @@ fundamental
 251. Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059/
 252*. DuckDuckGoose - https://www.codewars.com/kata/582e0e592029ea10530009ce/
 253. Simple beads count - https://www.codewars.com/kata/58712dfa5c538b6fc7000569/
+254. Convert to Binary - https://www.codewars.com/kata/59fca81a5712f9fa4700159a/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app253.js):Simple beads count"
+git commit -m "update(fundamentals:added app254.js):Convert to Binary"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
