@@ -254,10 +254,11 @@ fundamental
 253. Simple beads count - https://www.codewars.com/kata/58712dfa5c538b6fc7000569/
 254. Convert to Binary - https://www.codewars.com/kata/59fca81a5712f9fa4700159a/
 255. Minimize Sum Of Array - https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/
+256. Sum of Multiples - https://www.codewars.com/kata/57241e0f440cd279b5000829/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app255.js):Minimize Sum Of Array"
+git commit -m "update(fundamentals:added app256.js):Sum of Multiples"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
