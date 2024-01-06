@@ -255,10 +255,11 @@ fundamental
 254. Convert to Binary - https://www.codewars.com/kata/59fca81a5712f9fa4700159a/
 255. Minimize Sum Of Array - https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/
 256. Sum of Multiples - https://www.codewars.com/kata/57241e0f440cd279b5000829/
+257. ASCII Total - https://www.codewars.com/kata/572b6b2772a38bc1e700007a/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app256.js):Sum of Multiples"
+git commit -m "update(fundamentals:added app257.js):ASCII Total"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
