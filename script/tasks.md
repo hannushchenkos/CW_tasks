@@ -256,10 +256,11 @@ fundamental
 255. Minimize Sum Of Array - https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/
 256. Sum of Multiples - https://www.codewars.com/kata/57241e0f440cd279b5000829/
 257. ASCII Total - https://www.codewars.com/kata/572b6b2772a38bc1e700007a/
+258. Dashatize it - https://www.codewars.com/kata/58223370aef9fc03fd000071/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app257.js):ASCII Total"
+git commit -m "update(fundamentals:added app258.js):Dashatize it"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
