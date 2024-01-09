@@ -258,10 +258,11 @@ fundamental
 257. ASCII Total - https://www.codewars.com/kata/572b6b2772a38bc1e700007a/
 258. Dashatize it - https://www.codewars.com/kata/58223370aef9fc03fd000071/      
 259. USD to CNY - https://www.codewars.com/kata/5977618080ef220766000022/     
+260. Convert an array of strings to array of numbers - https://www.codewars.com/kata/5783d8f3202c0e486c001d23
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app259.js):USD to CNY"
+git commit -m "update(fundamentals:added app260.js):Convert an array of strings to array of numbers"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
