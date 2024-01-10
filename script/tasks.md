@@ -259,10 +259,10 @@ fundamental
 258. Dashatize it - https://www.codewars.com/kata/58223370aef9fc03fd000071/      
 259. USD to CNY - https://www.codewars.com/kata/5977618080ef220766000022/     
 260. Convert an array of strings to array of numbers - https://www.codewars.com/kata/5783d8f3202c0e486c001d23
-
+261. You only need one - https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app260.js):Convert an array of strings to array of numbers"
+git commit -m "update(fundamentals:added app261.js):You only need one"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
