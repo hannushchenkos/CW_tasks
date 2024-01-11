@@ -260,6 +260,7 @@ fundamental
 259. USD to CNY - https://www.codewars.com/kata/5977618080ef220766000022/     
 260. Convert an array of strings to array of numbers - https://www.codewars.com/kata/5783d8f3202c0e486c001d23
 261. You only need one - https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
+262. 
 //===============================//
 Commit example: 
 git commit -m "update(fundamentals:added app261.js):You only need one"
@@ -284,9 +285,9 @@ rank-up
 015. ASCII diamond art - https://www.codewars.com/kata/5503013e34137eeeaa001648/
 016. Remove the items that repeat N times - https://www.codewars.com/kata/554ca54ffa7d91b236000023 (not ready)
 017. Upper or LowerCase - https://www.codewars.com/kata/5b180e9fedaa564a7000009a/
-
+018. The Supermarket Queue - https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 
 //===============================//
 Commit example: 
-git commit -m "update(rank-up:added app17.js):Upper or LowerCase"
+git commit -m "update(rank-up:added app018.js):The Supermarket Queue"
 //===============================//
