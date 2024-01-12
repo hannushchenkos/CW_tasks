@@ -287,7 +287,9 @@ rank-up
 017. Upper or LowerCase - https://www.codewars.com/kata/5b180e9fedaa564a7000009a/
 018. The Supermarket Queue - https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 019. Encrypt this! - https://www.codewars.com/kata/5848565e273af816fb000449
+020. Decrypt this! - https://www.codewars.com/kata/581e014b55f2c52bb00000f8/
+
 //===============================//
 Commit example: 
-git commit -m "update(rank-up:added app019.js):Encrypt this!"
+git commit -m "update(rank-up:added app020.js):Decrypt this!"
 //===============================//
