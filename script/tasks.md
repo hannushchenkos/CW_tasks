@@ -260,10 +260,11 @@ fundamental
 259. USD to CNY - https://www.codewars.com/kata/5977618080ef220766000022/     
 260. Convert an array of strings to array of numbers - https://www.codewars.com/kata/5783d8f3202c0e486c001d23
 261. You only need one - https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
-262. 
+262. Blue and red marbles - https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/
+
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app261.js):You only need one"
+git commit -m "update(fundamentals:added app262.js):Blue and red marbles"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
