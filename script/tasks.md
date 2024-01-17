@@ -264,10 +264,11 @@ fundamental
 263. Simple remove duplicates - https://www.codewars.com/kata/5ba38ba180824a86850000f7/
 264. Sleigh Authentication - https://www.codewars.com/kata/52adc142b2651f25a8000643
 265. Regexp Basics - is it a digit? - https://www.codewars.com/kata/567bf4f7ee34510f69000032/
+266. Is it a number? - https://www.codewars.com/kata/57126304cdbf63c6770012bd/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app265.js):Regexp Basics - is it a digit?"
+git commit -m "update(fundamentals:added app266.js):Is it a number?"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
