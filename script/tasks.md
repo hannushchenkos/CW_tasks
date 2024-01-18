@@ -265,10 +265,11 @@ fundamental
 264. Sleigh Authentication - https://www.codewars.com/kata/52adc142b2651f25a8000643
 265. Regexp Basics - is it a digit? - https://www.codewars.com/kata/567bf4f7ee34510f69000032/
 266. Is it a number? - https://www.codewars.com/kata/57126304cdbf63c6770012bd/
+267. for..in and for..of - https://www.codewars.com/kata/5722b3f0bd5583cf44001000/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app266.js):Is it a number?"
+git commit -m "update(fundamentals:added app267.js):for..in and for..of"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
