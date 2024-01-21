@@ -268,10 +268,11 @@ fundamental
 267. for..in and for..of - https://www.codewars.com/kata/5722b3f0bd5583cf44001000/
 268. Remove all exclamation marks from the end of sentence - https://www.codewars.com/kata/57faece99610ced690000165/
 269. Max diff - https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095
+270. Ordered Count of Characters - https://www.codewars.com/kata/57a6633153ba33189e000074
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app269.js):Max diff"
+git commit -m "update(fundamentals:added app270.js):Ordered Count of Characters"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
