@@ -269,10 +269,11 @@ fundamental
 268. Remove all exclamation marks from the end of sentence - https://www.codewars.com/kata/57faece99610ced690000165/
 269. Max diff - https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095
 270. Ordered Count of Characters - https://www.codewars.com/kata/57a6633153ba33189e000074
+271. Will there be enough space? - https://www.codewars.com/kata/5875b200d520904a04000003
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app270.js):Ordered Count of Characters"
+git commit -m "update(fundamentals:added app271.js):Will there be enough space?"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
