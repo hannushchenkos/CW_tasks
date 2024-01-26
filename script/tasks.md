@@ -273,10 +273,11 @@ fundamental
 272. Sum of Cubes - https://www.codewars.com/kata/59a8570b570190d313000037/
 273. Expressions Matter  - https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/ 
 274. Title Case - https://www.codewars.com/kata/5202ef17a402dd033c000009
+275. esreveR - https://www.codewars.com/kata/5413759479ba273f8100003d/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app274.js):Title Case"
+git commit -m "update(fundamentals:added app27c5.js):esreveR"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
