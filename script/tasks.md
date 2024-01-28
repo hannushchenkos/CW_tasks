@@ -275,10 +275,11 @@ fundamental
 274. Title Case - https://www.codewars.com/kata/5202ef17a402dd033c000009
 275. esreveR - https://www.codewars.com/kata/5413759479ba273f8100003d/
 276. Find the nth Digit of a Number - https://www.codewars.com/kata/577b9960df78c19bca00007e/
+277. Welcome! - https://www.codewars.com/kata/577ff15ad648a14b780000e7
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app276.js):Find the nth Digit of a Number"
+git commit -m "update(fundamentals:added app277.js):Welcome!"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
