@@ -276,10 +276,11 @@ fundamental
 275. esreveR - https://www.codewars.com/kata/5413759479ba273f8100003d/
 276. Find the nth Digit of a Number - https://www.codewars.com/kata/577b9960df78c19bca00007e/
 277. Welcome! - https://www.codewars.com/kata/577ff15ad648a14b780000e7
+278. Is there a vowel in there? - https://www.codewars.com/kata/57cff961eca260b71900008f/train
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app277.js):Welcome!"
+git commit -m "update(fundamentals:added app278.js):Is there a vowel in there!"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
