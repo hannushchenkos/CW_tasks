@@ -278,10 +278,11 @@ fundamental
 277. Welcome! - https://www.codewars.com/kata/577ff15ad648a14b780000e7
 278. Is there a vowel in there? - https://www.codewars.com/kata/57cff961eca260b71900008f/train
 279. Pillars - https://www.codewars.com/kata/5bb0c58f484fcd170700063d/
+280. Unique In Order - https://www.codewars.com/kata/54e6533c92449cc251001667
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app279.js):Pillars"
+git commit -m "update(fundamentals:added app280.js):Unique In Order"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
