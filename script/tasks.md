@@ -280,10 +280,11 @@ fundamental
 279. Pillars - https://www.codewars.com/kata/5bb0c58f484fcd170700063d/
 280. Unique In Order - https://www.codewars.com/kata/54e6533c92449cc251001667
 281. pick a set of first elements - https://www.codewars.com/kata/572b77262bedd351e9000076
+282. Nth Smallest Element - https://www.codewars.com/kata/5a512f6a80eba857280000fc/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app281.js):pick a set of first elements"
+git commit -m "update(fundamentals:added app282.js):Nth Smallest Element"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
