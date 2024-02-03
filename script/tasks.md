@@ -281,10 +281,11 @@ fundamental
 280. Unique In Order - https://www.codewars.com/kata/54e6533c92449cc251001667
 281. pick a set of first elements - https://www.codewars.com/kata/572b77262bedd351e9000076
 282. Nth Smallest Element - https://www.codewars.com/kata/5a512f6a80eba857280000fc/
+283. Automorphic Number - https://www.codewars.com/kata/5a58d889880385c2f40000aa/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app282.js):Nth Smallest Element"
+git commit -m "update(fundamentals:added app283.js):Automorphic Number"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
