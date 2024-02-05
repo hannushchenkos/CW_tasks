@@ -283,10 +283,11 @@ fundamental
 282. Nth Smallest Element - https://www.codewars.com/kata/5a512f6a80eba857280000fc/
 283. Automorphic Number - https://www.codewars.com/kata/5a58d889880385c2f40000aa/
 284. Tidy Number - https://www.codewars.com/kata/5a87449ab1710171300000fd
+285. Build a square - https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app284.js):Tidy Number"
+git commit -m "update(fundamentals:added app285.js):Build a square"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
