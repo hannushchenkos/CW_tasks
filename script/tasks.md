@@ -284,10 +284,11 @@ fundamental
 283. Automorphic Number - https://www.codewars.com/kata/5a58d889880385c2f40000aa/
 284. Tidy Number - https://www.codewars.com/kata/5a87449ab1710171300000fd
 285. Build a square - https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
+286. Divide and Conquer - https://www.codewars.com/kata/57eaec5608fed543d6000021
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app285.js):Build a square"
+git commit -m "update(fundamentals:added app286.js):Divide and Conquer"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
