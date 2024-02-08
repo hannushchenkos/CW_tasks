@@ -286,10 +286,11 @@ fundamental
 285. Build a square - https://www.codewars.com/kata/59a96d71dbe3b06c0200009c
 286. Divide and Conquer - https://www.codewars.com/kata/57eaec5608fed543d6000021
 287. Pythagorean Triple - https://www.codewars.com/kata/5951d30ce99cf2467e000013/
+288. Kebabize - https://www.codewars.com/kata/57f8ff867a28db569e000c4a/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app287.js):Pythagorean Triple"
+git commit -m "update(fundamentals:added app288.js):Kebabize"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
