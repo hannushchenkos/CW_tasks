@@ -288,10 +288,11 @@ fundamental
 287. Pythagorean Triple - https://www.codewars.com/kata/5951d30ce99cf2467e000013/
 288. Kebabize - https://www.codewars.com/kata/57f8ff867a28db569e000c4a/
 289. Alternate case - https://www.codewars.com/kata/57a62154cf1fa5b25200031e
+290. Filter out the geese - https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app289.js):Alternate case"
+git commit -m "update(fundamentals:added app290.js):Filter out the geese"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
