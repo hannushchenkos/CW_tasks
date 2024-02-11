@@ -289,10 +289,11 @@ fundamental
 288. Kebabize - https://www.codewars.com/kata/57f8ff867a28db569e000c4a/
 289. Alternate case - https://www.codewars.com/kata/57a62154cf1fa5b25200031e
 290. Filter out the geese - https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
+291. Hero Prototype - https://www.codewars.com/kata/55e8aba23d399a59500000ce/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app290.js):Filter out the geese"
+git commit -m "update(fundamentals:added app291.js):Hero Prototype"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
