@@ -290,10 +290,11 @@ fundamental
 289. Alternate case - https://www.codewars.com/kata/57a62154cf1fa5b25200031e
 290. Filter out the geese - https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
 291. Hero Prototype - https://www.codewars.com/kata/55e8aba23d399a59500000ce/
+292. Currying functions - https://www.codewars.com/kata/586909e4c66d18dd1800009b/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app291.js):Hero Prototype"
+git commit -m "update(fundamentals:added app292.js):Currying functions"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
