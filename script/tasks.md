@@ -291,10 +291,12 @@ fundamental
 290. Filter out the geese - https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
 291. Hero Prototype - https://www.codewars.com/kata/55e8aba23d399a59500000ce/
 292. Currying functions - https://www.codewars.com/kata/586909e4c66d18dd1800009b/
+293. Form The Minimum - https://www.codewars.com/kata/5ac6932b2f317b96980000ca/
+
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app292.js):Currying functions"
+git commit -m "update(fundamentals:added app293.js):Form The Minimum"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
