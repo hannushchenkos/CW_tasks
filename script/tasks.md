@@ -293,10 +293,11 @@ fundamental
 292. Currying functions - https://www.codewars.com/kata/586909e4c66d18dd1800009b/
 293. Form The Minimum - https://www.codewars.com/kata/5ac6932b2f317b96980000ca/
 294. Functional Addition - https://www.codewars.com/kata/538835ae443aae6e03000547/
+295. Odd-Even String Sort - https://www.codewars.com/kata/580755730b5a77650500010c/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app294.js):Functional Addition"
+git commit -m "update(fundamentals:added app295.js):Odd-Even String Sort"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
