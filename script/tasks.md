@@ -294,10 +294,11 @@ fundamental
 293. Form The Minimum - https://www.codewars.com/kata/5ac6932b2f317b96980000ca/
 294. Functional Addition - https://www.codewars.com/kata/538835ae443aae6e03000547/
 295. Odd-Even String Sort - https://www.codewars.com/kata/580755730b5a77650500010c/
+296. Power of two - https://www.codewars.com/kata/534d0a229345375d520006a0/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app295.js):Odd-Even String Sort"
+git commit -m "update(fundamentals:added app296.js):Power of two"
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
 
