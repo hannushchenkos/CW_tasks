@@ -296,10 +296,11 @@ fundamental
 295. Odd-Even String Sort - https://www.codewars.com/kata/580755730b5a77650500010c/
 296. Power of two - https://www.codewars.com/kata/534d0a229345375d520006a0/
 297. Area of a Square - https://www.codewars.com/kata/5748838ce2fab90b86001b1a/
+298. Building blocks - https://www.codewars.com/kata/55b75fcf67e558d3750000a3
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app297.js):Area of a Square"
+git commit -m "update(fundamentals:added app298.js):Building blocks"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
