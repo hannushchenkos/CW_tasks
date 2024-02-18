@@ -297,10 +297,11 @@ fundamental
 296. Power of two - https://www.codewars.com/kata/534d0a229345375d520006a0/
 297. Area of a Square - https://www.codewars.com/kata/5748838ce2fab90b86001b1a/
 298. Building blocks - https://www.codewars.com/kata/55b75fcf67e558d3750000a3
+299. Tip Calculator - https://www.codewars.com/kata/56598d8076ee7a0759000087/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app298.js):Building blocks"
+git commit -m "update(fundamentals:added app299.js):Tip Calculator"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
