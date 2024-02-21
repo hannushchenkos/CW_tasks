@@ -300,10 +300,11 @@ fundamental
 299. Tip Calculator - https://www.codewars.com/kata/56598d8076ee7a0759000087/
 300. Fuel Calculator: Total Cost - https://www.codewars.com/kata/57b58827d2a31c57720012e8/
 301. Incrementer - https://www.codewars.com/kata/590e03aef55cab099a0002e8
+302. Simple string characters - https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app301.js):Incrementer"
+git commit -m "update(fundamentals:added app302.js):Simple string characters"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
