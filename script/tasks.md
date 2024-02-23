@@ -302,10 +302,11 @@ fundamental
 301. Incrementer - https://www.codewars.com/kata/590e03aef55cab099a0002e8
 302. Simple string characters - https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/
 303. True for All? - https://www.codewars.com/kata/54598d1fcbae2ae05200112c/
+304. Basic Training: Add item to an Array - https://www.codewars.com/kata/511f0fe64ae8683297000001/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app303.js):True for All?"
+git commit -m "update(fundamentals:added app304.js):Basic Training: Add item to an Array"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
