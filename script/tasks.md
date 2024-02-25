@@ -304,10 +304,11 @@ fundamental
 303. True for All? - https://www.codewars.com/kata/54598d1fcbae2ae05200112c/
 304. Basic Training: Add item to an Array - https://www.codewars.com/kata/511f0fe64ae8683297000001/
 305. V A P O R C O D E - https://www.codewars.com/kata/5966eeb31b229e44eb00007a/
+306. Help the Fruit Guy - https://www.codewars.com/kata/557af4c6169ac832300000ba/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app305.js):V A P O R C O D E"
+git commit -m "update(fundamentals:added app306.js):Help the Fruit Guy"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
