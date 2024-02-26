@@ -305,10 +305,11 @@ fundamental
 304. Basic Training: Add item to an Array - https://www.codewars.com/kata/511f0fe64ae8683297000001/
 305. V A P O R C O D E - https://www.codewars.com/kata/5966eeb31b229e44eb00007a/
 306. Help the Fruit Guy - https://www.codewars.com/kata/557af4c6169ac832300000ba/
+307. Maximum Triplet Sum - https://www.codewars.com/kata/5aa1bcda373c2eb596000112/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app306.js):Help the Fruit Guy"
+git commit -m "update(fundamentals:added app307.js):Maximum Triplet Sum"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
