@@ -307,10 +307,11 @@ fundamental
 306. Help the Fruit Guy - https://www.codewars.com/kata/557af4c6169ac832300000ba/
 307. Maximum Triplet Sum - https://www.codewars.com/kata/5aa1bcda373c2eb596000112/
 308. Indexed capitalization - https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1/
+309. Reverse every other word in the string - https://www.codewars.com/kata/58d76854024c72c3e20000de/
 
 //===============================//
 Commit example: 
-git commit -m "update(fundamentals:added app308.js):Indexed capitalization"
+git commit -m "update(fundamentals:added app309.js):Reverse every other word in the string"
 
 <!-- git commit -m "update(fundamentals:update app138.js):Mumbling(update)" -->
 //===============================//
